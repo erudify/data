@@ -102141,3 +102141,300 @@
   - chinese: 。
     pinyin: 。
     transliteration: ''
+- english: This mountain is very high.
+  chunks:
+  - chinese: 这
+    pinyin: zhè
+    transliteration: this
+  - chinese: 座
+    pinyin: zuò
+    transliteration: (classifier)
+  - chinese: 山
+    pinyin: shān
+    transliteration: mountain
+  - chinese: 很
+    pinyin: hěn
+    transliteration: very
+  - chinese: 高
+    pinyin: gāo
+    transliteration: high
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- english: Do you want to climb the mountain?
+  chunks:
+  - chinese: 你
+    pinyin: nǐ
+    transliteration: you
+  - chinese: 想
+    pinyin: xiǎng
+    transliteration: want
+  - chinese: 爬山
+    pinyin: páshān
+    transliteration: climb mountain
+  - chinese: 吗
+    pinyin: ma
+    transliteration: (question particle)
+  - chinese: ？
+    pinyin: ？
+    transliteration: ''
+- english: There are many mountains in China.
+  chunks:
+  - chinese: 中国
+    pinyin: Zhōngguó
+    transliteration: China
+  - chinese: 有
+    pinyin: yǒu
+    transliteration: has
+  - chinese: 很
+    pinyin: hěn
+    transliteration: very
+  - chinese: 多
+    pinyin: duō
+    transliteration: many
+  - chinese: 山
+    pinyin: shān
+    transliteration: mountains
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- english: I've never climbed a mountain before.
+  chunks:
+  - chinese: 我
+    pinyin: wǒ
+    transliteration: I
+  - chinese: 没
+    pinyin: méi
+    transliteration: not
+  - chinese: 爬
+    pinyin: pá
+    transliteration: climbed
+  - chinese: 过
+    pinyin: guo
+    transliteration: (experience marker)
+  - chinese: 山
+    pinyin: shān
+    transliteration: mountain
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- english: That mountain is really beautiful!
+  chunks:
+  - chinese: 那
+    pinyin: nà
+    transliteration: that
+  - chinese: 座
+    pinyin: zuò
+    transliteration: (classifier)
+  - chinese: 山
+    pinyin: shān
+    transliteration: mountain
+  - chinese: 真
+    pinyin: zhēn
+    transliteration: really
+  - chinese: 美
+    pinyin: měi
+    transliteration: beautiful
+  - chinese: ！
+    pinyin: ！
+    transliteration: ''
+- english: He lives in the mountains.
+  chunks:
+  - chinese: 他
+    pinyin: tā
+    transliteration: he
+  - chinese: 住
+    pinyin: zhù
+    transliteration: lives
+  - chinese: 在
+    pinyin: zài
+    transliteration: in
+  - chinese: 山
+    pinyin: shān
+    transliteration: mountains
+  - chinese: 里
+    pinyin: lǐ
+    transliteration: inside
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- english: Let's go climb the mountain tomorrow!
+  chunks:
+  - chinese: 我们
+    pinyin: wǒmen
+    transliteration: we
+  - chinese: 明天
+    pinyin: míngtiān
+    transliteration: tomorrow
+  - chinese: 去
+    pinyin: qù
+    transliteration: go
+  - chinese: 爬山
+    pinyin: páshān
+    transliteration: climb mountain
+  - chinese: 吧
+    pinyin: ba
+    transliteration: (suggestion particle)
+  - chinese: ！
+    pinyin: ！
+    transliteration: ''
+- english: The mountains here are not high.
+  chunks:
+  - chinese: 这里
+    pinyin: zhèlǐ
+    transliteration: here
+  - chinese: 的
+    pinyin: de
+    transliteration: (possessive)
+  - chinese: 山
+    pinyin: shān
+    transliteration: mountains
+  - chinese: 不
+    pinyin: bù
+    transliteration: not
+  - chinese: 高
+    pinyin: gāo
+    transliteration: high
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- english: There are trees on the mountain.
+  chunks:
+  - chinese: 山
+    pinyin: shān
+    transliteration: mountain
+  - chinese: 上
+    pinyin: shàng
+    transliteration: 'on'
+  - chinese: 有
+    pinyin: yǒu
+    transliteration: has
+  - chinese: 树
+    pinyin: shù
+    transliteration: trees
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- english: Did you climb to the top of the mountain?
+  chunks:
+  - chinese: 你
+    pinyin: nǐ
+    transliteration: you
+  - chinese: 爬
+    pinyin: pá
+    transliteration: climbed
+  - chinese: 到
+    pinyin: dào
+    transliteration: to
+  - chinese: 山
+    pinyin: shān
+    transliteration: mountain
+  - chinese: 上
+    pinyin: shàng
+    transliteration: top
+  - chinese: 了
+    pinyin: le
+    transliteration: (completed)
+  - chinese: 吗
+    pinyin: ma
+    transliteration: (question particle)
+  - chinese: ？
+    pinyin: ？
+    transliteration: ''
+- english: I like climbing mountains.
+  chunks:
+  - chinese: 我
+    pinyin: wǒ
+    transliteration: I
+  - chinese: 喜欢
+    pinyin: xǐhuan
+    transliteration: like
+  - chinese: 爬山
+    pinyin: páshān
+    transliteration: climbing mountains
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- english: Which mountain do you want to climb?
+  chunks:
+  - chinese: 你
+    pinyin: nǐ
+    transliteration: you
+  - chinese: 想
+    pinyin: xiǎng
+    transliteration: want
+  - chinese: 爬
+    pinyin: pá
+    transliteration: climb
+  - chinese: 哪
+    pinyin: nǎ
+    transliteration: which
+  - chinese: 座
+    pinyin: zuò
+    transliteration: (classifier)
+  - chinese: 山
+    pinyin: shān
+    transliteration: mountain
+  - chinese: ？
+    pinyin: ？
+    transliteration: ''
+- english: There's water at the foot of the mountain.
+  chunks:
+  - chinese: 山
+    pinyin: shān
+    transliteration: mountain
+  - chinese: 下
+    pinyin: xià
+    transliteration: foot
+  - chinese: 有
+    pinyin: yǒu
+    transliteration: has
+  - chinese: 水
+    pinyin: shuǐ
+    transliteration: water
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- english: We walked halfway up the mountain.
+  chunks:
+  - chinese: 我们
+    pinyin: wǒmen
+    transliteration: we
+  - chinese: 走
+    pinyin: zǒu
+    transliteration: walked
+  - chinese: 到
+    pinyin: dào
+    transliteration: to
+  - chinese: 半山
+    pinyin: bànshān
+    transliteration: halfway up mountain
+  - chinese: 了
+    pinyin: le
+    transliteration: (completed)
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- english: This hill isn't too steep.
+  chunks:
+  - chinese: 这
+    pinyin: zhè
+    transliteration: this
+  - chinese: 个
+    pinyin: gè
+    transliteration: (classifier)
+  - chinese: 山
+    pinyin: shān
+    transliteration: hill
+  - chinese: 不
+    pinyin: bù
+    transliteration: not
+  - chinese: 太
+    pinyin: tài
+    transliteration: too
+  - chinese: 高
+    pinyin: gāo
+    transliteration: steep
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
