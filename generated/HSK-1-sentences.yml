@@ -364,20 +364,6 @@
   - chinese: 。
     pinyin: 。
     transliteration: ''
-- english: I am a student.
-  chunks:
-  - chinese: 我
-    pinyin: Wǒ
-    transliteration: I
-  - chinese: 是
-    pinyin: shì
-    transliteration: am
-  - chinese: 学生
-    pinyin: xuéshēng
-    transliteration: student
-  - chinese: 。
-    pinyin: 。
-    transliteration: ''
 - english: Are you a teacher?
   chunks:
   - chinese: 你
@@ -4516,32 +4502,6 @@
   - chinese: 了
     pinyin: le
     transliteration: (completed action)
-  - chinese: 。
-    pinyin: .
-    transliteration: ''
-- english: I've never seen such a beautiful sunset.
-  chunks:
-  - chinese: 我
-    pinyin: Wǒ
-    transliteration: I
-  - chinese: 从来
-    pinyin: cónglái
-    transliteration: ever
-  - chinese: 没
-    pinyin: méi
-    transliteration: never
-  - chinese: 见过
-    pinyin: jiànguò
-    transliteration: seen
-  - chinese: 这么
-    pinyin: zhème
-    transliteration: such
-  - chinese: 美的
-    pinyin: měi de
-    transliteration: beautiful
-  - chinese: 日落
-    pinyin: rìluò
-    transliteration: sunset
   - chinese: 。
     pinyin: .
     transliteration: ''
@@ -31182,20 +31142,6 @@
   - chinese: 。
     pinyin: .
     transliteration: ''
-- english: I am eating.
-  chunks:
-  - chinese: 我
-    pinyin: wǒ
-    transliteration: I
-  - chinese: 正在
-    pinyin: zhèngzài
-    transliteration: am currently
-  - chinese: 吃饭
-    pinyin: chīfàn
-    transliteration: eating
-  - chinese: 。
-    pinyin: .
-    transliteration: ''
 - english: She is taking a shower, please wait a moment.
   chunks:
   - chinese: 她
@@ -32533,26 +32479,6 @@
   - chinese: 下床
     pinyin: xiàchuáng
     transliteration: got out of bed
-  - chinese: 。
-    pinyin: .
-    transliteration: ''
-- english: This song is really catchy.
-  chunks:
-  - chinese: 这
-    pinyin: Zhè
-    transliteration: this
-  - chinese: 首
-    pinyin: shǒu
-    transliteration: (measure word for songs)
-  - chinese: 歌
-    pinyin: gē
-    transliteration: song
-  - chinese: 真
-    pinyin: zhēn
-    transliteration: really
-  - chinese: 好听
-    pinyin: hǎotīng
-    transliteration: catchy/pleasant to listen to
   - chinese: 。
     pinyin: .
     transliteration: ''
@@ -57095,23 +57021,6 @@
   - chinese: 。
     pinyin: .
     transliteration: ''
-- english: My wallet is in my bag.
-  chunks:
-  - chinese: 我的
-    pinyin: Wǒ de
-    transliteration: my
-  - chinese: 钱包
-    pinyin: qiánbāo
-    transliteration: wallet
-  - chinese: 在
-    pinyin: zài
-    transliteration: is in
-  - chinese: 包里
-    pinyin: bāo lǐ
-    transliteration: the bag
-  - chinese: 。
-    pinyin: .
-    transliteration: ''
 - english: Have you seen my wallet?
   chunks:
   - chinese: 你
@@ -64611,23 +64520,6 @@
   - chinese: 。
     pinyin: .
     transliteration: ''
-- english: This book is very useful.
-  chunks:
-  - chinese: 这本
-    pinyin: zhè běn
-    transliteration: this
-  - chinese: 书
-    pinyin: shū
-    transliteration: book
-  - chinese: 很
-    pinyin: hěn
-    transliteration: very
-  - chinese: 有用
-    pinyin: yǒuyòng
-    transliteration: useful
-  - chinese: 。
-    pinyin: .
-    transliteration: ''
 - english: Is learning this skill useful?
   chunks:
   - chinese: 学
@@ -66644,17 +66536,6 @@
   - chinese: 。
     pinyin: .
     transliteration: ''
-- english: Happy New Year!
-  chunks:
-  - chinese: 新年
-    pinyin: xīnnián
-    transliteration: New Year
-  - chinese: 快乐
-    pinyin: kuàilè
-    transliteration: happy
-  - chinese: ！
-    pinyin: '!'
-    transliteration: ''
 - english: What are your plans for the new year?
   chunks:
   - chinese: 你
@@ -67958,23 +67839,6 @@
   - chinese: 。
     pinyin: .
     transliteration: ''
-- english: This song is really pleasant to listen to.
-  chunks:
-  - chinese: 这首
-    pinyin: zhè shǒu
-    transliteration: this (classifier for songs)
-  - chinese: 歌
-    pinyin: gē
-    transliteration: song
-  - chinese: 真
-    pinyin: zhēn
-    transliteration: really
-  - chinese: 好听
-    pinyin: hǎotīng
-    transliteration: pleasant to listen to
-  - chinese: 。
-    pinyin: .
-    transliteration: ''
 - english: Your voice sounds so nice!
   chunks:
   - chinese: 你的
@@ -68491,26 +68355,6 @@
     transliteration: middle school student
   - chinese: 。
     pinyin: .
-    transliteration: ''
-- english: Which middle school do you go to?
-  chunks:
-  - chinese: 你
-    pinyin: nǐ
-    transliteration: you
-  - chinese: 在
-    pinyin: zài
-    transliteration: at
-  - chinese: 哪个
-    pinyin: nǎge
-    transliteration: which
-  - chinese: 中学
-    pinyin: zhōngxué
-    transliteration: middle school
-  - chinese: 上学
-    pinyin: shàngxué
-    transliteration: go to school
-  - chinese: ？
-    pinyin: '?'
     transliteration: ''
 - english: This middle school is very famous.
   chunks:
@@ -70181,17 +70025,6 @@
   - chinese: 关掉
     pinyin: guāndiào
     transliteration: turn off
-  - chinese: 。
-    pinyin: .
-    transliteration: ''
-- english: The television set is broken.
-  chunks:
-  - chinese: 电视机
-    pinyin: Diànshìjī
-    transliteration: television set
-  - chinese: 坏了
-    pinyin: huài le
-    transliteration: is broken
   - chinese: 。
     pinyin: .
     transliteration: ''
@@ -79326,23 +79159,6 @@
   - chinese: 。
     pinyin: .
     transliteration: ''
-- english: My younger brother is a middle school student.
-  chunks:
-  - chinese: 我
-    pinyin: Wǒ
-    transliteration: my
-  - chinese: 弟弟
-    pinyin: dìdi
-    transliteration: younger brother
-  - chinese: 是
-    pinyin: shì
-    transliteration: is
-  - chinese: 中学生
-    pinyin: zhōngxuéshēng
-    transliteration: middle school student
-  - chinese: 。
-    pinyin: .
-    transliteration: ''
 - english: Are you a middle school student or a high school student?
   chunks:
   - chinese: 你
@@ -83907,23 +83723,6 @@
   - chinese: 。
     pinyin: .
     transliteration: ''
-- english: That little child is very cute.
-  chunks:
-  - chinese: 那个
-    pinyin: nàge
-    transliteration: that
-  - chinese: 小孩儿
-    pinyin: xiǎoháir
-    transliteration: little child
-  - chinese: 很
-    pinyin: hěn
-    transliteration: very
-  - chinese: 可爱
-    pinyin: kě'ài
-    transliteration: cute
-  - chinese: 。
-    pinyin: .
-    transliteration: ''
 - english: My little child loves to eat candy.
   chunks:
   - chinese: 我的
@@ -85156,29 +84955,6 @@
   - chinese: 。
     pinyin: 。
     transliteration: ''
-- english: Which intersection should I turn at?
-  chunks:
-  - chinese: 我
-    pinyin: wǒ
-    transliteration: I
-  - chinese: 应该
-    pinyin: yīnggāi
-    transliteration: should
-  - chinese: 在
-    pinyin: zài
-    transliteration: at
-  - chinese: 哪个
-    pinyin: nǎge
-    transliteration: which
-  - chinese: 路口
-    pinyin: lùkǒu
-    transliteration: intersection
-  - chinese: 转
-    pinyin: zhuǎn
-    transliteration: turn
-  - chinese: ？
-    pinyin: ？
-    transliteration: ''
 - english: There's a traffic light at every intersection.
   chunks:
   - chinese: 每个
@@ -85531,26 +85307,6 @@
   - chinese: 吗
     pinyin: ma
     transliteration: (question particle)
-  - chinese: ？
-    pinyin: ？
-    transliteration: ''
-- english: Where can I buy tickets?
-  chunks:
-  - chinese: 在
-    pinyin: zài
-    transliteration: at
-  - chinese: 哪里
-    pinyin: nǎlǐ
-    transliteration: where
-  - chinese: 可以
-    pinyin: kěyǐ
-    transliteration: can
-  - chinese: 买
-    pinyin: mǎi
-    transliteration: buy
-  - chinese: 门票
-    pinyin: ménpiào
-    transliteration: tickets
   - chinese: ？
     pinyin: ？
     transliteration: ''
@@ -86810,29 +86566,6 @@
   - chinese: 东西
     pinyin: dōngxi
     transliteration: things
-  - chinese: 。
-    pinyin: 。
-    transliteration: ''
-- english: I want to learn more knowledge.
-  chunks:
-  - chinese: 我
-    pinyin: wǒ
-    transliteration: I
-  - chinese: 想
-    pinyin: xiǎng
-    transliteration: want
-  - chinese: 学
-    pinyin: xué
-    transliteration: learn
-  - chinese: 更
-    pinyin: gèng
-    transliteration: more
-  - chinese: 多
-    pinyin: duō
-    transliteration: much
-  - chinese: 知识
-    pinyin: zhīshi
-    transliteration: knowledge
   - chinese: 。
     pinyin: 。
     transliteration: ''
@@ -88097,26 +87830,6 @@
   - chinese: 考
     pinyin: kǎo
     transliteration: take the test
-  - chinese: ？
-    pinyin: ？
-    transliteration: ''
-- english: Which college are you from?
-  chunks:
-  - chinese: 你
-    pinyin: nǐ
-    transliteration: you
-  - chinese: 是
-    pinyin: shì
-    transliteration: are
-  - chinese: 哪个
-    pinyin: nǎge
-    transliteration: which
-  - chinese: 学院
-    pinyin: xuéyuàn
-    transliteration: college
-  - chinese: 的
-    pinyin: de
-    transliteration: (possession)
   - chinese: ？
     pinyin: ？
     transliteration: ''
@@ -90091,29 +89804,6 @@
   - chinese: 。
     pinyin: 。
     transliteration: ''
-- english: I want to go to the south to see the sea.
-  chunks:
-  - chinese: 我
-    pinyin: wǒ
-    transliteration: I
-  - chinese: 想
-    pinyin: xiǎng
-    transliteration: want
-  - chinese: 去
-    pinyin: qù
-    transliteration: go
-  - chinese: 南方
-    pinyin: nánfāng
-    transliteration: the south
-  - chinese: 看
-    pinyin: kàn
-    transliteration: see
-  - chinese: 海
-    pinyin: hǎi
-    transliteration: sea
-  - chinese: 。
-    pinyin: 。
-    transliteration: ''
 - english: My home is south of the school.
   chunks:
   - chinese: 我
@@ -90206,23 +89896,6 @@
   - chinese: 。
     pinyin: 。
     transliteration: ''
-- english: Which direction is south?
-  chunks:
-  - chinese: 哪
-    pinyin: nǎ
-    transliteration: which
-  - chinese: 边
-    pinyin: biān
-    transliteration: side
-  - chinese: 是
-    pinyin: shì
-    transliteration: is
-  - chinese: 南
-    pinyin: nán
-    transliteration: south
-  - chinese: ？
-    pinyin: ？
-    transliteration: ''
 - english: It's raining outside.
   chunks:
   - chinese: 外面
@@ -90236,23 +89909,6 @@
     transliteration: (change of state)
   - chinese: 。
     pinyin: 。
-    transliteration: ''
-- english: Is it going to rain tomorrow?
-  chunks:
-  - chinese: 明天
-    pinyin: míngtiān
-    transliteration: tomorrow
-  - chinese: 会
-    pinyin: huì
-    transliteration: will
-  - chinese: 下雨
-    pinyin: xià yǔ
-    transliteration: rain
-  - chinese: 吗
-    pinyin: ma
-    transliteration: (question particle)
-  - chinese: ？
-    pinyin: ？
     transliteration: ''
 - english: The rain is very heavy.
   chunks:
@@ -93000,20 +92656,6 @@
   - chinese: ！
     pinyin: ！
     transliteration: ''
-- english: It's raining outside.
-  chunks:
-  - chinese: 外面
-    pinyin: wàimiàn
-    transliteration: outside
-  - chinese: 下雨
-    pinyin: xiàyǔ
-    transliteration: raining
-  - chinese: 了
-    pinyin: le
-    transliteration: (change of state)
-  - chinese: 。
-    pinyin: 。
-    transliteration: ''
 - english: Are you going out?
   chunks:
   - chinese: 你
@@ -93030,20 +92672,6 @@
     transliteration: (question particle)
   - chinese: ？
     pinyin: ？
-    transliteration: ''
-- english: He is a foreigner.
-  chunks:
-  - chinese: 他
-    pinyin: tā
-    transliteration: he
-  - chinese: 是
-    pinyin: shì
-    transliteration: is
-  - chinese: 外国人
-    pinyin: wàiguórén
-    transliteration: foreigner
-  - chinese: 。
-    pinyin: 。
     transliteration: ''
 - english: Don't go outside!
   chunks:
@@ -93228,23 +92856,6 @@
   - chinese: 了
     pinyin: le
     transliteration: (completed action)
-  - chinese: 。
-    pinyin: 。
-    transliteration: ''
-- english: This child is very cute.
-  chunks:
-  - chinese: 这个
-    pinyin: zhège
-    transliteration: this
-  - chinese: 小孩儿
-    pinyin: xiǎoháir
-    transliteration: child
-  - chinese: 很
-    pinyin: hěn
-    transliteration: very
-  - chinese: 可爱
-    pinyin: kě'ài
-    transliteration: cute
   - chinese: 。
     pinyin: 。
     transliteration: ''
@@ -94551,23 +94162,6 @@
   - chinese: 。
     pinyin: 。
     transliteration: ''
-- english: I live in the south.
-  chunks:
-  - chinese: 我
-    pinyin: wǒ
-    transliteration: I
-  - chinese: 住
-    pinyin: zhù
-    transliteration: live
-  - chinese: 在
-    pinyin: zài
-    transliteration: in
-  - chinese: 南方
-    pinyin: nánfāng
-    transliteration: the south
-  - chinese: 。
-    pinyin: 。
-    transliteration: ''
 - english: Go south and you'll see the school.
   chunks:
   - chinese: 往
@@ -95543,26 +95137,6 @@
   - chinese: 。
     pinyin: 。
     transliteration: ''
-- english: There are many trees in the park.
-  chunks:
-  - chinese: 公园
-    pinyin: gōngyuán
-    transliteration: park
-  - chinese: 里
-    pinyin: lǐ
-    transliteration: in
-  - chinese: 有
-    pinyin: yǒu
-    transliteration: there are
-  - chinese: 很多
-    pinyin: hěn duō
-    transliteration: many
-  - chinese: 树
-    pinyin: shù
-    transliteration: trees
-  - chinese: 。
-    pinyin: 。
-    transliteration: ''
 - english: That tree is very tall.
   chunks:
   - chinese: 那
@@ -96404,20 +95978,6 @@
   - chinese: 。
     pinyin: 。
     transliteration: ''
-- english: It's raining outside.
-  chunks:
-  - chinese: 外面
-    pinyin: wàimiàn
-    transliteration: outside
-  - chinese: 下雨
-    pinyin: xiàyǔ
-    transliteration: raining
-  - chinese: 了
-    pinyin: le
-    transliteration: (change of state)
-  - chinese: 。
-    pinyin: 。
-    transliteration: ''
 - english: Don't go outside.
   chunks:
   - chinese: 不要
@@ -96767,20 +96327,6 @@
   - chinese: 日
     pinyin: rì
     transliteration: day
-  - chinese: 。
-    pinyin: 。
-    transliteration: ''
-- english: The sun came out.
-  chunks:
-  - chinese: 太阳
-    pinyin: tàiyáng
-    transliteration: sun
-  - chinese: 出来
-    pinyin: chūlái
-    transliteration: came out
-  - chinese: 了
-    pinyin: le
-    transliteration: (completed)
   - chinese: 。
     pinyin: 。
     transliteration: ''
@@ -98112,23 +97658,6 @@
   - chinese: ！
     pinyin: ！
     transliteration: ''
-- english: What are you doing right now?
-  chunks:
-  - chinese: 你
-    pinyin: nǐ
-    transliteration: you
-  - chinese: 正在
-    pinyin: zhèngzài
-    transliteration: right now
-  - chinese: 做
-    pinyin: zuò
-    transliteration: doing
-  - chinese: 什么
-    pinyin: shénme
-    transliteration: what
-  - chinese: ？
-    pinyin: ？
-    transliteration: ''
 - english: This is the main entrance.
   chunks:
   - chinese: 这
@@ -98297,29 +97826,6 @@
     transliteration: restroom
   - chinese: ？
     pinyin: ？
-    transliteration: ''
-- english: There are more men than women in our class.
-  chunks:
-  - chinese: 我们
-    pinyin: wǒmen
-    transliteration: our
-  - chinese: 班
-    pinyin: bān
-    transliteration: class
-  - chinese: 男生
-    pinyin: nánshēng
-    transliteration: male students
-  - chinese: 比
-    pinyin: bǐ
-    transliteration: than
-  - chinese: 女生
-    pinyin: nǚshēng
-    transliteration: female students
-  - chinese: 多
-    pinyin: duō
-    transliteration: more
-  - chinese: 。
-    pinyin: 。
     transliteration: ''
 - english: That man is my older brother.
   chunks:
@@ -100050,26 +99556,6 @@
   - chinese: 。
     pinyin: 。
     transliteration: ''
-- english: I scored 90 points on the test.
-  chunks:
-  - chinese: 我
-    pinyin: wǒ
-    transliteration: I
-  - chinese: 考
-    pinyin: kǎo
-    transliteration: tested
-  - chinese: 了
-    pinyin: le
-    transliteration: (completed)
-  - chinese: 九十
-    pinyin: jiǔshí
-    transliteration: ninety
-  - chinese: 分
-    pinyin: fēn
-    transliteration: points
-  - chinese: 。
-    pinyin: 。
-    transliteration: ''
 - english: Can you tell who's who?
   chunks:
   - chinese: 你
@@ -100998,23 +100484,6 @@
   - chinese: 果
     pinyin: guǒ
     transliteration: ''
-  - chinese: 。
-    pinyin: 。
-    transliteration: ''
-- english: This ball is mine.
-  chunks:
-  - chinese: 这个
-    pinyin: zhège
-    transliteration: this
-  - chinese: 球
-    pinyin: qiú
-    transliteration: ball
-  - chinese: 是
-    pinyin: shì
-    transliteration: is
-  - chinese: 我的
-    pinyin: wǒde
-    transliteration: mine
   - chinese: 。
     pinyin: 。
     transliteration: ''
@@ -102064,23 +101533,6 @@
   - chinese: 。
     pinyin: 。
     transliteration: ''
-- english: Which side is south?
-  chunks:
-  - chinese: 哪
-    pinyin: nǎ
-    transliteration: which
-  - chinese: 边
-    pinyin: biān
-    transliteration: side
-  - chinese: 是
-    pinyin: shì
-    transliteration: is
-  - chinese: 南
-    pinyin: nán
-    transliteration: south
-  - chinese: ？
-    pinyin: ？
-    transliteration: ''
 - english: He's from the south.
   chunks:
   - chinese: 他
@@ -102098,29 +101550,6 @@
   - chinese: 人
     pinyin: rén
     transliteration: person
-  - chinese: 。
-    pinyin: 。
-    transliteration: ''
-- english: The weather in the south is very hot.
-  chunks:
-  - chinese: 南
-    pinyin: nán
-    transliteration: south
-  - chinese: 方
-    pinyin: fāng
-    transliteration: region
-  - chinese: 的
-    pinyin: de
-    transliteration: (possessive)
-  - chinese: 天气
-    pinyin: tiānqì
-    transliteration: weather
-  - chinese: 很
-    pinyin: hěn
-    transliteration: very
-  - chinese: 热
-    pinyin: rè
-    transliteration: hot
   - chinese: 。
     pinyin: 。
     transliteration: ''
