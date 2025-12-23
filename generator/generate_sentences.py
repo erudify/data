@@ -86,10 +86,19 @@ Example list format:
   }}
 ]
 
-### Chunking Guidelines
+### Chunking & Pinyin Guidelines
 - **Word Segmentation**: Break the sentence into logical word chunks. Follow standard modern Chinese word segmentation rules.
 - **Transliteration**: For each chunk, provide a "best-effort" transliteration that reflects its meaning *in the context of that specific sentence*.
 - **Punctuation**: Each punctuation mark (e.g., 。, ，, ！) must be its own chunk with an empty transliteration string and the punctuation itself as the pinyin.
+- **Colloquial Pinyin (Neutral Tones)**: Use neutral tones (no tone mark) for the second syllable in common colloquial words. For example:
+    - 那个: `nàge` (not `nàgè`)
+    - 告诉: `gàosu` (not `gàosù`)
+    - 喜欢: `xǐhuan` (not `xǐhuān`)
+    - 回来: `huílai` (not `huílái`)
+    - 那边: `nàbian` (not `nàbiān`)
+    - 甚至: `shènzhi` (not `shènzhì`)
+    - 早上: `zǎoshang` (not `zǎoshàng`)
+    - 休息: `xiūxi` (not `xiūxí`)
 
 Output only valid JSON.
 
