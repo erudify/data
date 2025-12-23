@@ -1,0 +1,9 @@
+#!/bin/bash
+if [ -z "$1" ] || [ -z "$2" ]; then
+    echo "Usage: ./opencode <model> <word>"
+    echo "Models: Haiku, Sonnet, Opus"
+    exit 1
+fi
+MODEL=$1
+shift
+python3 $(dirname "$0")/generate_sentences.py --model "$MODEL" --word "$@"

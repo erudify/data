@@ -1,0 +1,50 @@
+- chinese: 我用电脑。
+  pinyin:
+  - Wǒ
+  - 用
+  - diànnǎo
+  - .
+  english: I 用 the computer.
+  word: 用
+- chinese: 如果你用心学习，你会做得更好。
+  pinyin:
+  - Rúguǒ
+  - nǐ
+  - 用
+  - xīn
+  - xuéxí
+  - ','
+  - nǐ
+  - huì
+  - zuò
+  - de
+  - gèng
+  - hǎo
+  - .
+  english: If you 用 your heart to study, you will do better.
+  word: 用
+- chinese: 我的电脑。
+  pinyin:
+  - Wǒ
+  - 的
+  - diànnǎo
+  - .
+  english: I 的 the computer.
+  word: 的
+- chinese: 如果你的心学习，你会做得更好。
+  pinyin:
+  - Rúguǒ
+  - nǐ
+  - 的
+  - xīn
+  - xuéxí
+  - ','
+  - nǐ
+  - huì
+  - zuò
+  - de
+  - gèng
+  - hǎo
+  - .
+  english: If you 的 your heart to study, you will do better.
+  word: 的

@@ -1,0 +1,92 @@
+- english: I 我 the computer.
+  chunks:
+  - chinese: 我
+    pinyin: Wǒ
+    transliteration: I
+  - chinese: 我
+    pinyin: 我
+    transliteration: 我
+  - chinese: 电脑
+    pinyin: diànnǎo
+    transliteration: computer
+  - chinese: 。
+    pinyin: .
+    transliteration: ''
+- english: If you 我 your heart to study, you will do better.
+  chunks:
+  - chinese: 如果你
+    pinyin: Rúguǒnǐ
+    transliteration: if you
+  - chinese: 我
+    pinyin: 我
+    transliteration: 我
+  - chinese: 心
+    pinyin: xīn
+    transliteration: heart
+  - chinese: 学习
+    pinyin: xuéxí
+    transliteration: study
+  - chinese: ，
+    pinyin: ','
+    transliteration: ''
+  - chinese: 你
+    pinyin: nǐ
+    transliteration: you
+  - chinese: 会
+    pinyin: huì
+    transliteration: will
+  - chinese: 做得
+    pinyin: zuòde
+    transliteration: do
+  - chinese: 更好
+    pinyin: gènghǎo
+    transliteration: better
+  - chinese: 。
+    pinyin: .
+    transliteration: ''
+- english: I 的 the computer.
+  chunks:
+  - chinese: 我
+    pinyin: Wǒ
+    transliteration: I
+  - chinese: 的
+    pinyin: 的
+    transliteration: 的
+  - chinese: 电脑
+    pinyin: diànnǎo
+    transliteration: computer
+  - chinese: 。
+    pinyin: .
+    transliteration: ''
+- english: If you 的 your heart to study, you will do better.
+  chunks:
+  - chinese: 如果你
+    pinyin: Rúguǒnǐ
+    transliteration: if you
+  - chinese: 的
+    pinyin: 的
+    transliteration: 的
+  - chinese: 心
+    pinyin: xīn
+    transliteration: heart
+  - chinese: 学习
+    pinyin: xuéxí
+    transliteration: study
+  - chinese: ，
+    pinyin: ','
+    transliteration: ''
+  - chinese: 你
+    pinyin: nǐ
+    transliteration: you
+  - chinese: 会
+    pinyin: huì
+    transliteration: will
+  - chinese: 做得
+    pinyin: zuòde
+    transliteration: do
+  - chinese: 更好
+    pinyin: gènghǎo
+    transliteration: better
+  - chinese: 。
+    pinyin: .
+    transliteration: ''

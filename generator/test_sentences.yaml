@@ -1,0 +1,22 @@
+- english: My computer.
+  chunks:
+  - chinese: 我
+    pinyin: Wǒ
+    transliteration: I
+  - chinese: 的
+    pinyin: de
+    transliteration: 's'
+  - chinese: 电脑
+    pinyin: diànnǎo
+    transliteration: computer
+  - chinese: 。
+    pinyin: .
+    transliteration: ''
+- english: I study.
+  chunks:
+  - chinese: 我
+    pinyin: Wǒ
+    transliteration: I
+  - chinese: 学习
+    pinyin: xuéxí
+    transliteration: study
