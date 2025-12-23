@@ -578,7 +578,7 @@
     pinyin: zuótiān
     transliteration: yesterday
   - chinese: 晚上
-    pinyin: wǎnshàng
+    pinyin: wǎnshang
     transliteration: evening
   - chinese: 加班
     pinyin: jiābān
@@ -1023,7 +1023,7 @@
     pinyin: jiàn
     transliteration: classifier for clothing
   - chinese: 衣服
-    pinyin: yīfú
+    pinyin: yīfu
     transliteration: clothing
   - chinese: 很
     pinyin: hěn
@@ -1208,7 +1208,7 @@
     pinyin: zhè jiàn
     transliteration: this (measure word)
   - chinese: 衣服
-    pinyin: yīfú
+    pinyin: yīfu
     transliteration: clothing
   - chinese: 适合
     pinyin: shìhé
@@ -1263,7 +1263,7 @@
     pinyin: mén
     transliteration: door
   - chinese: 关上
-    pinyin: guān shàng
+    pinyin: guān shang
     transliteration: close
   - chinese: ，
     pinyin: ，
@@ -2655,7 +2655,7 @@
     pinyin: zuótiān
     transliteration: yesterday
   - chinese: 晚上
-    pinyin: wǎnshàng
+    pinyin: wǎnshang
     transliteration: evening
   - chinese: 看了
     pinyin: kàn le
@@ -3162,7 +3162,7 @@
     pinyin: zá zài
     transliteration: hit onto
   - chinese: 地上
-    pinyin: dìshàng
+    pinyin: dìshang
     transliteration: the ground
   - chinese: ，
     pinyin: ，
@@ -3694,7 +3694,7 @@
     pinyin: de
     transliteration: '''s'
   - chinese: 名字
-    pinyin: míngzì
+    pinyin: míngzi
     transliteration: name
   - chinese: 。
     pinyin: 。
@@ -3737,7 +3737,7 @@
     pinyin: zhè ge
     transliteration: this
   - chinese: 消息
-    pinyin: xiāoxī
+    pinyin: xiāoxi
     transliteration: news
   - chinese: 。
     pinyin: 。
@@ -3763,7 +3763,7 @@
     pinyin: qíngkuàng
     transliteration: situation
   - chinese: 告诉
-    pinyin: gàosù
+    pinyin: gàosu
     transliteration: tell
   - chinese: 我
     pinyin: wǒ
@@ -3860,7 +3860,7 @@
     pinyin: tíqián
     transliteration: earlier
   - chinese: 告诉
-    pinyin: gàosù
+    pinyin: gàosu
     transliteration: tell
   - chinese: 我
     pinyin: wǒ
@@ -6392,7 +6392,7 @@
     pinyin: mǎshàng
     transliteration: immediately
   - chinese: 回来
-    pinyin: huílái
+    pinyin: huílai
     transliteration: come back
   - chinese: 。
     pinyin: .
@@ -10672,7 +10672,7 @@
     pinyin: jiù
     transliteration: will
   - chinese: 回来
-    pinyin: huílái
+    pinyin: huílai
     transliteration: be back
   - chinese: 了
     pinyin: le
@@ -17458,7 +17458,7 @@
     pinyin: wǒ
     transliteration: I
   - chinese: 回来
-    pinyin: huílái
+    pinyin: huílai
     transliteration: came back
   - chinese: 了
     pinyin: le
@@ -24716,7 +24716,7 @@
     pinyin: le
     transliteration: (completed action)
   - chinese: 好几个
-    pinyin: hǎo jǐ gè
+    pinyin: hǎo jǐ ge
     transliteration: several
   - chinese: 重要的
     pinyin: zhòngyào de
@@ -27902,7 +27902,7 @@
     pinyin: Tāmen
     transliteration: They (females)
   - chinese: 一边
-    pinyin: yìbiān
+    pinyin: yībiān
     transliteration: while
   - chinese: 喝
     pinyin: hē
@@ -27914,7 +27914,7 @@
     pinyin: ','
     transliteration: ''
   - chinese: 一边
-    pinyin: yìbiān
+    pinyin: yībiān
     transliteration: while
   - chinese: 聊天
     pinyin: liáotiān
@@ -27943,7 +27943,7 @@
     pinyin: lǚyóu
     transliteration: traveling
   - chinese: 回来
-    pinyin: huílái
+    pinyin: huílai
     transliteration: got back
   - chinese: 。
     pinyin: .
@@ -29704,7 +29704,7 @@
     pinyin: cái
     transliteration: only now
   - chinese: 回来
-    pinyin: huílái
+    pinyin: huílai
     transliteration: come back
   - chinese: 。
     pinyin: .
@@ -33284,7 +33284,7 @@
     pinyin: bāngmáng
     transliteration: help
   - chinese: 照顾
-    pinyin: zhàogù
+    pinyin: zhàogu
     transliteration: take care of
   - chinese: 我的
     pinyin: wǒ de
@@ -33399,7 +33399,7 @@
     pinyin: qù guo
     transliteration: have been to
   - chinese: 几个
-    pinyin: jǐ gè
+    pinyin: jǐ ge
     transliteration: how many
   - chinese: 国家
     pinyin: guójiā
@@ -36774,7 +36774,7 @@
     pinyin: děng
     transliteration: waiting for
   - chinese: 学生们的
-    pinyin: xuéshēngmen de
+    pinyin: xuéshengmen de
     transliteration: students'
   - chinese: 回答
     pinyin: huídá
@@ -38524,7 +38524,7 @@
     pinyin: tèbié
     transliteration: especially
   - chinese: 照顾
-    pinyin: zhàogù
+    pinyin: zhàogu
     transliteration: takes care of
   - chinese: 。
     pinyin: .
@@ -39234,7 +39234,7 @@
     pinyin: chéngshì
     transliteration: city
   - chinese: 东边
-    pinyin: dōngbiān
+    pinyin: dōngbian
     transliteration: east side
   - chinese: 新
     pinyin: xīn
@@ -43489,7 +43489,7 @@
     pinyin: zǒngshì
     transliteration: always
   - chinese: 照顾
-    pinyin: zhàogù
+    pinyin: zhàogu
     transliteration: took care of
   - chinese: 我
     pinyin: wǒ
@@ -49840,7 +49840,7 @@
     pinyin: wǒ
     transliteration: my
   - chinese: 左边
-    pinyin: zuǒbiān
+    pinyin: zuǒbian
     transliteration: left side
   - chinese: 。
     pinyin: .
@@ -49923,7 +49923,7 @@
     pinyin: de
     transliteration: '''s'
   - chinese: 左边
-    pinyin: zuǒbiān
+    pinyin: zuǒbian
     transliteration: left side
   - chinese: 。
     pinyin: .
@@ -50081,7 +50081,7 @@
     pinyin: qǐng
     transliteration: please
   - chinese: 告诉
-    pinyin: gàosù
+    pinyin: gàosu
     transliteration: tell
   - chinese: 我
     pinyin: wǒ
@@ -50252,7 +50252,7 @@
     pinyin: xuǎnchū
     transliteration: select
   - chinese: 几个
-    pinyin: jǐ gè
+    pinyin: jǐ ge
     transliteration: several
   - chinese: 适合
     pinyin: shìhé
@@ -50360,7 +50360,7 @@
     pinyin: de
     transliteration: '''s'
   - chinese: 右边
-    pinyin: yòubiān
+    pinyin: yòubian
     transliteration: right side
   - chinese: 。
     pinyin: .
@@ -55768,7 +55768,7 @@
     pinyin: de
     transliteration: '''s'
   - chinese: 南边
-    pinyin: nánbiān
+    pinyin: nánbian
     transliteration: south side
   - chinese: 。
     pinyin: .
@@ -55869,7 +55869,7 @@
     pinyin: wǎng
     transliteration: toward
   - chinese: 南边
-    pinyin: nánbiān
+    pinyin: nánbian
     transliteration: the south
   - chinese: 。
     pinyin: .
@@ -57396,7 +57396,7 @@
     pinyin: de
     transliteration: (nominalizer)
   - chinese: 不对
-    pinyin: bùduì
+    pinyin: bú duì
     transliteration: is wrong
   - chinese: 。
     pinyin: .
@@ -57724,7 +57724,7 @@
     pinyin: wǎng
     transliteration: toward
   - chinese: 左边
-    pinyin: zuǒbiān
+    pinyin: zuǒbian
     transliteration: left side
   - chinese: 挪
     pinyin: nuó
@@ -59936,7 +59936,7 @@
     pinyin: ','
     transliteration: ''
   - chinese: 还是
-    pinyin: háishì
+    pinyin: háishi
     transliteration: still
   - chinese: 起不来床
     pinyin: qǐbulái chuáng
@@ -59999,7 +59999,7 @@
     pinyin: '?'
     transliteration: ''
   - chinese: 还是
-    pinyin: háishì
+    pinyin: háishi
     transliteration: or
   - chinese: 打车
     pinyin: dǎchē
@@ -60639,7 +60639,7 @@
     pinyin: dǎ
     transliteration: crack
   - chinese: 几个
-    pinyin: jǐ gè
+    pinyin: jǐ ge
     transliteration: a few
   - chinese: 鸡蛋
     pinyin: jīdàn
@@ -62689,7 +62689,7 @@
     pinyin: báitiān
     transliteration: daytime
   - chinese: 还是
-    pinyin: háishì
+    pinyin: háishi
     transliteration: or
   - chinese: 晚上
     pinyin: wǎnshang
@@ -64136,7 +64136,7 @@
     pinyin: qiánmiàn
     transliteration: ahead
   - chinese: 左边
-    pinyin: zuǒbiān
+    pinyin: zuǒbian
     transliteration: left side
   - chinese: 。
     pinyin: .
@@ -65114,7 +65114,7 @@
     pinyin: Qǐng
     transliteration: please
   - chinese: 告诉
-    pinyin: gàosù
+    pinyin: gàosu
     transliteration: tell
   - chinese: 我
     pinyin: wǒ
@@ -65198,7 +65198,7 @@
     pinyin: nǎ xiē
     transliteration: which
   - chinese: 朋友
-    pinyin: péngyǒu
+    pinyin: péngyou
     transliteration: friends
   - chinese: 会
     pinyin: huì
@@ -70444,7 +70444,7 @@
     pinyin: cái
     transliteration: just
   - chinese: 回来
-    pinyin: huílái
+    pinyin: huílai
     transliteration: came back
   - chinese: 。
     pinyin: .
@@ -70954,7 +70954,7 @@
     pinyin: guówài
     transliteration: abroad
   - chinese: 回来
-    pinyin: huílái
+    pinyin: huílai
     transliteration: came back
   - chinese: 。
     pinyin: .
@@ -73977,7 +73977,7 @@
     pinyin: háishi
     transliteration: or
   - chinese: 东边
-    pinyin: dōngbiān
+    pinyin: dōngbian
     transliteration: the east
   - chinese: ？
     pinyin: '?'
@@ -75466,7 +75466,7 @@
     pinyin: ','
     transliteration: ''
   - chinese: 学生们
-    pinyin: xuéshēngmen
+    pinyin: xuéshengmen
     transliteration: students
   - chinese: 就
     pinyin: jiù
@@ -75851,7 +75851,7 @@
     pinyin: tā
     transliteration: he
   - chinese: 还是
-    pinyin: háishì
+    pinyin: háishi
     transliteration: still
   - chinese: 不
     pinyin: bù
@@ -76537,7 +76537,7 @@
     pinyin: yǒu
     transliteration: have
   - chinese: 几个
-    pinyin: jǐ gè
+    pinyin: jǐ ge
     transliteration: how many
   - chinese: 本子
     pinyin: běnzi
@@ -78784,7 +78784,7 @@
 - english: The primary school students were taken to the museum by the teacher.
   chunks:
   - chinese: 小学生们
-    pinyin: Xiǎoxuéshēngmen
+    pinyin: Xiǎoxuéshengmen
     transliteration: The primary school students
   - chinese: 被
     pinyin: bèi
@@ -81739,7 +81739,7 @@
     pinyin: hòu
     transliteration: after
   - chinese: 回来
-    pinyin: huílái
+    pinyin: huílai
     transliteration: come back
   - chinese: 。
     pinyin: .
@@ -83261,7 +83261,7 @@
     pinyin: tā
     transliteration: he
   - chinese: 突然
-    pinyin: túrán
+    pinyin: tūrán
     transliteration: suddenly
   - chinese: 明白
     pinyin: míngbai
@@ -84523,7 +84523,7 @@
     pinyin: bǎ
     transliteration: (object-focus marker)
   - chinese: 那个
-    pinyin: nàgè
+    pinyin: nàge
     transliteration: that
   - chinese: 本子
     pinyin: běnzi
@@ -84895,7 +84895,7 @@
     pinyin: zài
     transliteration: is at
   - chinese: 那个
-    pinyin: nàgè
+    pinyin: nàge
     transliteration: that
   - chinese: 路口
     pinyin: lùkǒu
@@ -89587,7 +89587,7 @@
     pinyin: biān
     transliteration: side
   - chinese: 还是
-    pinyin: háishì
+    pinyin: háishi
     transliteration: or
   - chinese: 南
     pinyin: nán
@@ -89822,7 +89822,7 @@
     pinyin: de
     transliteration: (possessive)
   - chinese: 南边
-    pinyin: nánbiān
+    pinyin: nánbian
     transliteration: south side
   - chinese: 。
     pinyin: 。
@@ -90299,7 +90299,7 @@
     pinyin: gōngyuán
     transliteration: park
   - chinese: 东边
-    pinyin: dōngbiān
+    pinyin: dōngbian
     transliteration: east side
   - chinese: 。
     pinyin: 。
@@ -92327,7 +92327,7 @@
     pinyin: jiù
     transliteration: then
   - chinese: 回来
-    pinyin: huílái
+    pinyin: huílai
     transliteration: come back
   - chinese: 。
     pinyin: 。
@@ -92513,7 +92513,7 @@
     pinyin: shuō
     transliteration: say
   - chinese: 谢谢
-    pinyin: xièxiè
+    pinyin: xièxie
     transliteration: thank you
   - chinese: 。
     pinyin: 。
@@ -92527,7 +92527,7 @@
     pinyin: tā
     transliteration: he
   - chinese: 还是
-    pinyin: háishì
+    pinyin: háishi
     transliteration: still
   - chinese: 走
     pinyin: zǒu
@@ -94200,7 +94200,7 @@
     pinyin: shì
     transliteration: is
   - chinese: 南边
-    pinyin: nánbiān
+    pinyin: nánbian
     transliteration: south side
   - chinese: ？
     pinyin: ？
@@ -94240,7 +94240,7 @@
     pinyin: de
     transliteration: '''s'
   - chinese: 南边
-    pinyin: nánbiān
+    pinyin: nánbian
     transliteration: south side
   - chinese: 。
     pinyin: 。
@@ -94425,7 +94425,7 @@
     pinyin: de
     transliteration: (possessive)
   - chinese: 右边
-    pinyin: yòubiān
+    pinyin: yòubian
     transliteration: right side
   - chinese: 。
     pinyin: 。
@@ -94439,7 +94439,7 @@
     pinyin: kàn
     transliteration: look
   - chinese: 右边
-    pinyin: yòubiān
+    pinyin: yòubian
     transliteration: right side
   - chinese: 。
     pinyin: 。
@@ -94473,7 +94473,7 @@
     pinyin: wǒ
     transliteration: my
   - chinese: 右边
-    pinyin: yòubiān
+    pinyin: yòubian
     transliteration: right side
   - chinese: 。
     pinyin: 。
@@ -94484,13 +94484,13 @@
     pinyin: zài
     transliteration: 'on'
   - chinese: 左边
-    pinyin: zuǒbiān
+    pinyin: zuǒbian
     transliteration: left side
   - chinese: 还是
     pinyin: háishi
     transliteration: or
   - chinese: 右边
-    pinyin: yòubiān
+    pinyin: yòubian
     transliteration: right side
   - chinese: ？
     pinyin: ？
@@ -94558,7 +94558,7 @@
     pinyin: zài
     transliteration: is at
   - chinese: 右边
-    pinyin: yòubiān
+    pinyin: yòubian
     transliteration: right side
   - chinese: 。
     pinyin: 。
@@ -94718,7 +94718,7 @@
     pinyin: zuǒ
     transliteration: left
   - chinese: 还是
-    pinyin: háishì
+    pinyin: háishi
     transliteration: or
   - chinese: 往
     pinyin: wǎng
@@ -97816,7 +97816,7 @@
     pinyin: cèsuǒ
     transliteration: restroom
   - chinese: 还是
-    pinyin: háishì
+    pinyin: háishi
     transliteration: or
   - chinese: 女
     pinyin: nǚ
@@ -101424,7 +101424,7 @@
     pinyin: nán
     transliteration: south
   - chinese: 还是
-    pinyin: háishì
+    pinyin: háishi
     transliteration: or
   - chinese: 北
     pinyin: běi
