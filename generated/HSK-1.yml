@@ -146,20 +146,6 @@
   - chinese: 。
     pinyin: 。
     transliteration: ''
-- english: I am a student.
-  chunks:
-  - chinese: 我
-    pinyin: Wǒ
-    transliteration: I
-  - chinese: 是
-    pinyin: shì
-    transliteration: am
-  - chinese: 学生
-    pinyin: xuéshēng
-    transliteration: student
-  - chinese: 。
-    pinyin: 。
-    transliteration: ''
 - english: Are you a teacher?
   chunks:
   - chinese: 你
@@ -606,7 +592,7 @@
     pinyin: de
     transliteration: '''s'
   - chinese: 名字
-    pinyin: míngzì
+    pinyin: míngzi
     transliteration: name
   - chinese: 。
     pinyin: 。
@@ -1695,7 +1681,7 @@
     pinyin: jiù
     transliteration: will
   - chinese: 回来
-    pinyin: huílái
+    pinyin: huílai
     transliteration: be back
   - chinese: 了
     pinyin: le
@@ -2529,7 +2515,7 @@
     pinyin: wǒ
     transliteration: I
   - chinese: 回来
-    pinyin: huílái
+    pinyin: huílai
     transliteration: came back
   - chinese: 了
     pinyin: le
@@ -4442,20 +4428,6 @@
   - chinese: 进去
     pinyin: jìnqù
     transliteration: go in
-  - chinese: 。
-    pinyin: .
-    transliteration: ''
-- english: I am eating.
-  chunks:
-  - chinese: 我
-    pinyin: wǒ
-    transliteration: I
-  - chinese: 正在
-    pinyin: zhèngzài
-    transliteration: am currently
-  - chinese: 吃饭
-    pinyin: chīfàn
-    transliteration: eating
   - chinese: 。
     pinyin: .
     transliteration: ''
@@ -6664,7 +6636,7 @@
     pinyin: wǒ
     transliteration: my
   - chinese: 左边
-    pinyin: zuǒbiān
+    pinyin: zuǒbian
     transliteration: left side
   - chinese: 。
     pinyin: .
@@ -6675,7 +6647,7 @@
     pinyin: qǐng
     transliteration: please
   - chinese: 告诉
-    pinyin: gàosù
+    pinyin: gàosu
     transliteration: tell
   - chinese: 我
     pinyin: wǒ
@@ -7580,7 +7552,7 @@
     pinyin: de
     transliteration: (nominalizer)
   - chinese: 不对
-    pinyin: bùduì
+    pinyin: bú duì
     transliteration: is wrong
   - chinese: 。
     pinyin: .
@@ -7903,7 +7875,7 @@
     pinyin: '?'
     transliteration: ''
   - chinese: 还是
-    pinyin: háishì
+    pinyin: háishi
     transliteration: or
   - chinese: 打车
     pinyin: dǎchē
@@ -8204,7 +8176,7 @@
     pinyin: báitiān
     transliteration: daytime
   - chinese: 还是
-    pinyin: háishì
+    pinyin: háishi
     transliteration: or
   - chinese: 晚上
     pinyin: wǎnshang
@@ -8570,7 +8542,7 @@
     pinyin: Qǐng
     transliteration: please
   - chinese: 告诉
-    pinyin: gàosù
+    pinyin: gàosu
     transliteration: tell
   - chinese: 我
     pinyin: wǒ
@@ -10326,23 +10298,6 @@
   - chinese: ？
     pinyin: '?'
     transliteration: ''
-- english: My younger brother is a middle school student.
-  chunks:
-  - chinese: 我
-    pinyin: Wǒ
-    transliteration: my
-  - chinese: 弟弟
-    pinyin: dìdi
-    transliteration: younger brother
-  - chinese: 是
-    pinyin: shì
-    transliteration: is
-  - chinese: 中学生
-    pinyin: zhōngxuéshēng
-    transliteration: middle school student
-  - chinese: 。
-    pinyin: .
-    transliteration: ''
 - english: How many middle school students are there in your class?
   chunks:
   - chinese: 你们
@@ -10660,7 +10615,7 @@
     pinyin: hòu
     transliteration: after
   - chinese: 回来
-    pinyin: huílái
+    pinyin: huílai
     transliteration: come back
   - chinese: 。
     pinyin: .
@@ -13191,27 +13146,10 @@
     pinyin: de
     transliteration: (possessive)
   - chinese: 南边
-    pinyin: nánbiān
+    pinyin: nánbian
     transliteration: south side
   - chinese: 。
     pinyin: 。
-    transliteration: ''
-- english: Is it going to rain tomorrow?
-  chunks:
-  - chinese: 明天
-    pinyin: míngtiān
-    transliteration: tomorrow
-  - chinese: 会
-    pinyin: huì
-    transliteration: will
-  - chinese: 下雨
-    pinyin: xià yǔ
-    transliteration: rain
-  - chinese: 吗
-    pinyin: ma
-    transliteration: (question particle)
-  - chinese: ？
-    pinyin: ？
     transliteration: ''
 - english: The rain is very heavy.
   chunks:
@@ -14266,7 +14204,7 @@
     pinyin: shuō
     transliteration: say
   - chinese: 谢谢
-    pinyin: xièxiè
+    pinyin: xièxie
     transliteration: thank you
   - chinese: 。
     pinyin: 。
@@ -14280,7 +14218,7 @@
     pinyin: tā
     transliteration: he
   - chinese: 还是
-    pinyin: háishì
+    pinyin: háishi
     transliteration: still
   - chinese: 走
     pinyin: zǒu
@@ -14992,7 +14930,7 @@
     pinyin: de
     transliteration: '''s'
   - chinese: 南边
-    pinyin: nánbiān
+    pinyin: nánbian
     transliteration: south side
   - chinese: 。
     pinyin: 。
@@ -15012,7 +14950,7 @@
     pinyin: de
     transliteration: (possessive)
   - chinese: 右边
-    pinyin: yòubiān
+    pinyin: yòubian
     transliteration: right side
   - chinese: 。
     pinyin: 。
@@ -15026,7 +14964,7 @@
     pinyin: kàn
     transliteration: look
   - chinese: 右边
-    pinyin: yòubiān
+    pinyin: yòubian
     transliteration: right side
   - chinese: 。
     pinyin: 。
@@ -15046,7 +14984,7 @@
     pinyin: wǒ
     transliteration: my
   - chinese: 右边
-    pinyin: yòubiān
+    pinyin: yòubian
     transliteration: right side
   - chinese: 。
     pinyin: 。
@@ -15057,13 +14995,13 @@
     pinyin: zài
     transliteration: 'on'
   - chinese: 左边
-    pinyin: zuǒbiān
+    pinyin: zuǒbian
     transliteration: left side
   - chinese: 还是
     pinyin: háishi
     transliteration: or
   - chinese: 右边
-    pinyin: yòubiān
+    pinyin: yòubian
     transliteration: right side
   - chinese: ？
     pinyin: ？
@@ -15922,23 +15860,6 @@
   - chinese: ！
     pinyin: ！
     transliteration: ''
-- english: What are you doing right now?
-  chunks:
-  - chinese: 你
-    pinyin: nǐ
-    transliteration: you
-  - chinese: 正在
-    pinyin: zhèngzài
-    transliteration: right now
-  - chinese: 做
-    pinyin: zuò
-    transliteration: doing
-  - chinese: 什么
-    pinyin: shénme
-    transliteration: what
-  - chinese: ？
-    pinyin: ？
-    transliteration: ''
 - english: This is the main entrance.
   chunks:
   - chinese: 这
@@ -15993,29 +15914,6 @@
   - chinese: 呢
     pinyin: ne
     transliteration: (particle)
-  - chinese: 。
-    pinyin: 。
-    transliteration: ''
-- english: There are more men than women in our class.
-  chunks:
-  - chinese: 我们
-    pinyin: wǒmen
-    transliteration: our
-  - chinese: 班
-    pinyin: bān
-    transliteration: class
-  - chinese: 男生
-    pinyin: nánshēng
-    transliteration: male students
-  - chinese: 比
-    pinyin: bǐ
-    transliteration: than
-  - chinese: 女生
-    pinyin: nǚshēng
-    transliteration: female students
-  - chinese: 多
-    pinyin: duō
-    transliteration: more
   - chinese: 。
     pinyin: 。
     transliteration: ''
@@ -17081,7 +16979,7 @@
     pinyin: nán
     transliteration: south
   - chinese: 还是
-    pinyin: háishì
+    pinyin: háishi
     transliteration: or
   - chinese: 北
     pinyin: běi
