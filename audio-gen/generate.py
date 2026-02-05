@@ -77,9 +77,9 @@ def main():
 
     # Determine output directory relative to script location
     # The script is in erudify/data/audio-gen/
-    # We want to output to erudify/data/generated/audio/
+    # We want to output to erudify/data/corpus/audio/
     script_dir = Path(__file__).resolve().parent
-    output_dir = script_dir.parent / "generated" / "audio"
+    output_dir = script_dir.parent / "corpus" / "audio"
     
     print(f"Reading from {args.input_file}")
     print(f"Outputting to {output_dir}")
