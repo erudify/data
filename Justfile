@@ -21,5 +21,11 @@ set shell := ["bash", "-euc"]
 @sanitize-hsk1:
   nix run .#sanitize -- corpus/HSK-1-sentences.yml
 
+@compound-coverage word_list sentences:
+  nix run .#compound-coverage -- --word-list {{word_list}} --sentences {{sentences}}
+
+@compound-coverage-hsk1:
+  nix run .#compound-coverage -- --word-list "HSK/HSK 1.txt" --sentences "corpus/HSK-1-sentences.yml"
+
 @audio input:
   nix run .#audio-gen -- {{input}}

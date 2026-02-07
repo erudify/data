@@ -36,6 +36,7 @@
         generate = mkPythonApp "generate-sentences" ./generator/generate_sentences.py;
         bulk = mkPythonApp "bulk-generate" ./generator/bulk_generate.py;
         sanitize = mkPythonApp "sanitize-sentences" ./generator/sanitizer.py;
+        compound = mkPythonApp "compound-coverage" ./generator/compound_coverage.py;
         audio = mkPythonApp "audio-gen" ./audio-gen/generate.py;
       in
       {
@@ -56,6 +57,10 @@
             type = "app";
             program = "${sanitize}/bin/sanitize-sentences";
           };
+          compound-coverage = {
+            type = "app";
+            program = "${compound}/bin/compound-coverage";
+          };
           audio-gen = {
             type = "app";
             program = "${audio}/bin/audio-gen";
@@ -68,6 +73,7 @@
           generate-sentences = generate;
           bulk-generate = bulk;
           sanitize-sentences = sanitize;
+          compound-coverage = compound;
           audio-gen = audio;
           default = coverage;
         };
@@ -80,6 +86,7 @@
             generate
             bulk
             sanitize
+            compound
             audio
           ];
 
