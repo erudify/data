@@ -2,25 +2,7 @@ import sys
 import argparse
 import yaml
 import os
-
-def load_word_list(filepath):
-    """
-    Load words from a file (one word per line).
-    Handles UTF-8 BOM. Returns a list to preserve order.
-    """
-    words = []
-    if not os.path.exists(filepath):
-        print(f"Error: Word list file {filepath} not found.", file=sys.stderr)
-        return words
-    
-    with open(filepath, 'r', encoding='utf-8-sig') as f:
-        for line in f:
-            line = line.strip()
-            if not line or line.startswith('#'):
-                continue
-            if line not in words:
-                words.append(line)
-    return words
+from cedict_tool import load_word_list
 
 def is_safe(text):
 # ... (same as before)

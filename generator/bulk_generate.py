@@ -4,27 +4,54 @@ import yaml
 import os
 from collections import defaultdict
 from generate_sentences import generate_for_word
+from cedict_tool import load_word_list
 
-def load_word_list(filepath):
+def is_safe(text):
+    # Check if there are any Chinese characters
+    has_chinese = any('\u4e00' <= char <= '\u9fff' for char in text)
+    if not has_chinese:
+        return True
+
+    # If it has Chinese, it's only safe if it's a known punctuation mark that we missed.
+    # Chinese punctuation often falls in \u3000-\u303F or \uFF00-\uFFEF.
+    is_pure_punct = all(
+        ('\u3000' <= char <= '\u303F') or
+        ('\uFF00' <= char <= '\uFFEF') or
+        (not '\u4e00' <= char <= '\u9fff')
+        for char in text
+    )
+    return is_pure_punct
+
+def vocab_words_in_sentence(item, vocab_set):
     """
-    Load words from a file (one word per line).
+    Return the set of vocab words present as exact chunks in the sentence.
+    If the sentence contains non-vocab Chinese (excluding safe punctuation),
+    or contains no vocab words, return None.
     """
-    words = []
-    if not os.path.exists(filepath):
-        print(f"Error: Word list file {filepath} not found.", file=sys.stderr)
-        return words
-    
-    with open(filepath, 'r', encoding='utf-8-sig') as f:
-        for line in f:
-            word = line.strip()
-            if word:
-                words.append(word)
+    chunks = item.get('chunks', [])
+    words = set()
+    for chunk in chunks:
+        chinese = chunk.get('chinese', '').strip()
+        if not chinese:
+            continue
+        if chinese in vocab_set:
+            words.add(chinese)
+            continue
+        if is_safe(chinese):
+            continue
+        return None
+    if not words:
+        return None
     return words
+
+def is_restricted_sentence(item, vocab_set):
+    return vocab_words_in_sentence(item, vocab_set) is not None
 
 def get_sentence_counts(output_file, word_list):
     """
     Count how many sentences exist for each word in the output file.
-    Uses substring matching to handle multi-character words.
+    Uses exact chunk matches, consistent with the coverage tool.
+    Only counts sentences restricted to the provided word list.
     """
     counts = defaultdict(int)
     if not os.path.exists(output_file) or os.path.getsize(output_file) == 0:
@@ -40,12 +67,11 @@ def get_sentence_counts(output_file, word_list):
             data = yaml.safe_load(f)
             if data and isinstance(data, list):
                 for item in data:
-                    # Reconstruct Chinese sentence from chunks
-                    chunks = item.get('chunks', [])
-                    chinese_text = "".join(c.get('chinese', '') for c in chunks)
-                    for word in target_words:
-                        if word in chinese_text:
-                            counts[word] += 1
+                    words_in_sentence = vocab_words_in_sentence(item, target_words)
+                    if not words_in_sentence:
+                        continue
+                    for word in words_in_sentence:
+                        counts[word] += 1
     except Exception as e:
         print(f"Warning: Could not read existing output file {output_file}: {e}", file=sys.stderr)
         
@@ -109,11 +135,11 @@ def main():
                     
                     # Update counts for ALL words in the vocabulary based on new sentences
                     for s in sentences:
-                        chunks = s.get('chunks', [])
-                        chinese_text = "".join(c.get('chinese', '') for c in chunks)
-                        for w in target_words:
-                            if w in chinese_text:
-                                counts[w] += 1
+                        words_in_sentence = vocab_words_in_sentence(s, target_words)
+                        if not words_in_sentence:
+                            continue
+                        for w in words_in_sentence:
+                            counts[w] += 1
                     
                     total_new_count += len(sentences)
                     consecutive_failures = 0

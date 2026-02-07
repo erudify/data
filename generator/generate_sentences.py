@@ -33,7 +33,7 @@ def build_prompt(word, definitions, simple=False):
     
     simple_constraint = ""
     if simple:
-        simple_constraint = "5. **CRITICAL: Simple Vocabulary**: Use ONLY the 300 most common Chinese characters. This is a strict requirement for absolute beginners."
+        simple_constraint = "7. **CRITICAL: Simple Vocabulary**: Use ONLY the 300 most common Chinese characters. This is a strict requirement for absolute beginners."
 
     prompt = f"""You are an expert Chinese language teacher. Your goal is to generate high-quality example sentences for a target Chinese word.
 
@@ -41,10 +41,12 @@ def build_prompt(word, definitions, simple=False):
 The audience consists of Chinese language learners ranging from absolute beginners to advanced students. 
 
 ### Instructions for Sentences
-1. **Natural & Idiomatic**: Every sentence must be something a native speaker would actually say. Avoid "textbook-style" sentences that sound stiff or artificial.
-2. **Pedagogical Range**: Provide a mix of sentences. Some should be simple and direct (for beginners), while others should be more complex, incorporating advanced grammar or specific nuances (for intermediate/advanced students).
-3. **Contextual Variety**: Cover different meanings and usages of the word as provided in the dictionary definitions. Use the word in various contexts (e.g., daily life, formal settings, business, social media).
-4. **Grammatical Variety**: Use different sentence structures (e.g., questions, statements, sentences with specific particles like 把, 被, 了).
+1. **Chinese-First Generation**: Write the Chinese sentence first and ensure it sounds natural in Chinese. Avoid English-first calques that feel odd in Chinese (e.g., English month-name phrasing).
+2. **Standalone & Complete**: Each sentence must be complete, self-contained, and sensible on its own. Do not refer to anything said, shown, or known elsewhere.
+3. **Natural & Idiomatic**: Every sentence must be something a native speaker would actually say. Avoid "textbook-style" sentences that sound stiff or artificial.
+4. **Pedagogical Range**: Provide a mix of sentences. Some should be simple and direct (for beginners), while others should be more complex, incorporating advanced grammar or specific nuances (for intermediate/advanced students).
+5. **Contextual Variety**: Cover different meanings and usages of the word as provided in the dictionary definitions. Use the word in various contexts (e.g., daily life, formal settings, business, social media).
+6. **Grammatical Variety**: Use different sentence structures (e.g., questions, statements, sentences with specific particles like 把, 被, 了).
 {simple_constraint}
 
 ### Output Format
@@ -53,6 +55,7 @@ The output MUST be a JSON list of objects. Each object represents one example se
 Example list format:
 [
   {{
+    "chinese": "我被老师表扬了。",
     "english": "I was praised by the teacher.",
     "chunks": [
       {{ "chinese": "我", "pinyin": "wǒ", "transliteration": "I" }},
@@ -64,6 +67,7 @@ Example list format:
     ]
   }},
   {{
+    "chinese": "你是老师吗？",
     "english": "Are you a teacher?",
     "chunks": [
       {{ "chinese": "你", "pinyin": "nǐ", "transliteration": "you" }},
@@ -74,6 +78,7 @@ Example list format:
     ]
   }},
   {{
+    "chinese": "我们把门打开了。",
     "english": "We opened the door.",
     "chunks": [
       {{ "chinese": "我们", "pinyin": "wǒmen", "transliteration": "we" }},
@@ -99,6 +104,8 @@ Example list format:
     - 甚至: `shènzhi` (not `shènzhì`)
     - 早上: `zǎoshang` (not `zǎoshàng`)
     - 休息: `xiūxi` (not `xiūxí`)
+
+Important: Each object must include a single-string "chinese" field for the full sentence. The Chinese sentence will also appear in the "chunks" array.
 
 Output only valid JSON.
 
