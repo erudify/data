@@ -27,6 +27,7 @@
             else
               export PYTHONPATH="${./generator}"
             fi
+            export CEDICT_PATH="${./generator/cedict_ts.u8}"
             exec ${pythonEnv}/bin/python ${script} "$@"
           '';
         };
@@ -34,6 +35,7 @@
         coverage = mkPythonApp "coverage" ./generator/coverage.py;
         generate = mkPythonApp "generate-sentences" ./generator/generate_sentences.py;
         bulk = mkPythonApp "bulk-generate" ./generator/bulk_generate.py;
+        sanitize = mkPythonApp "sanitize-sentences" ./generator/sanitizer.py;
         audio = mkPythonApp "audio-gen" ./audio-gen/generate.py;
       in
       {
@@ -50,6 +52,10 @@
             type = "app";
             program = "${bulk}/bin/bulk-generate";
           };
+          sanitize = {
+            type = "app";
+            program = "${sanitize}/bin/sanitize-sentences";
+          };
           audio-gen = {
             type = "app";
             program = "${audio}/bin/audio-gen";
@@ -61,6 +67,7 @@
           coverage = coverage;
           generate-sentences = generate;
           bulk-generate = bulk;
+          sanitize-sentences = sanitize;
           audio-gen = audio;
           default = coverage;
         };
@@ -72,6 +79,7 @@
             coverage
             generate
             bulk
+            sanitize
             audio
           ];
 
