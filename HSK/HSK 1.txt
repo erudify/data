@@ -140,8 +140,9 @@
 放
 请坐
 电话
-地
-进
+# Covered by a lot of compound words.
+# 地
+# 进
 新
 您
 一些
@@ -167,7 +168,8 @@
 送
 跑
 月
-早
+# Covered by compound words
+# 早
 号
 小时
 重要
@@ -222,7 +224,8 @@
 进来
 路
 四
-第
+# Covered by compound words
+# 第
 进去
 听到
 正在
@@ -263,7 +266,8 @@
 大学
 记
 口
-日
+# Covered by compound words
+# 日
 休息
 回答
 外
@@ -308,7 +312,8 @@
 姐姐
 女朋友
 一半
-西
+# Covered by compound words
+# 西
 一边
 听见
 介绍
@@ -324,7 +329,8 @@
 冷
 下次
 班
-课
+# Covered by compound words
+# 课
 上班
 山
 干净
@@ -361,8 +367,10 @@
 地上
 午饭
 有的
-东
-雨
+# Covered by compound words
+# 东
+# Covered by 下雨
+# 雨
 好看
 # New word? It's not in cedict.
 # 车上
@@ -375,13 +383,15 @@
 地图
 面包
 页
-南
+# Covered by compound word
+# 南
 男生
 考试
 没事儿
 左边
 同学
-北
+# Covered by compound words
+# 北
 请问
 钱包
 百
@@ -498,3 +508,23 @@
 面条儿
 男孩儿
 一下儿
+
+# Extra compound words:
+我的
+你的
+很多
+一个
+几点
+第一
+第二
+第三
+第五
+第几
+第一次
+看看
+不能
+什么时候
+哪个
+一下
+看书
+二十
