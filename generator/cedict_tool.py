@@ -7,6 +7,30 @@ import re
 CEDICT_URL = "https://www.mdbg.net/chinese/export/cedict/cedict_1_0_ts_utf-8_mdbg.txt.gz"
 CEDICT_FILE = "cedict_ts.u8"
 
+def load_word_list(filepath):
+    """
+    Load words from a file (one word per line).
+    - Ignores blank lines and comment lines starting with '#'.
+    - Handles UTF-8 BOM.
+    - Preserves order while de-duplicating.
+    """
+    words = []
+    seen = set()
+    if not os.path.exists(filepath):
+        print(f"Error: Word list file {filepath} not found.", file=sys.stderr)
+        return words
+
+    with open(filepath, 'r', encoding='utf-8-sig') as f:
+        for line in f:
+            line = line.strip()
+            if not line or line.startswith('#'):
+                continue
+            if line in seen:
+                continue
+            seen.add(line)
+            words.append(line)
+    return words
+
 def download_cedict():
     if os.path.exists(CEDICT_FILE):
         return

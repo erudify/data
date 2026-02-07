@@ -22,6 +22,11 @@
           name = name;
           runtimeInputs = [ pythonEnv ];
           text = ''
+            if [ -n "''${PYTHONPATH:-}" ]; then
+              export PYTHONPATH="${./generator}:''${PYTHONPATH}"
+            else
+              export PYTHONPATH="${./generator}"
+            fi
             exec ${pythonEnv}/bin/python ${script} "$@"
           '';
         };
