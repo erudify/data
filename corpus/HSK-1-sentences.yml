@@ -6397,7 +6397,7 @@
     pinyin: de
     transliteration: (possessive)
   - chinese: WiFi
-    pinyin: WiFi
+    pinyin: wifi
     transliteration: WiFi
   - chinese: 信号
     pinyin: xìnhào
@@ -9254,7 +9254,7 @@
     pinyin: de
     transliteration: (possessive particle)
   - chinese: WiFi
-    pinyin: WiFi
+    pinyin: wifi
     transliteration: WiFi
   - chinese: 太
     pinyin: tài
@@ -25203,47 +25203,6 @@
   - chinese: 。
     pinyin: .
     transliteration: ''
-- english: 'A: Thank you so much! B: You''re welcome, it''s nothing.'
-  chunks:
-  - chinese: A
-    pinyin: A
-    transliteration: A
-  - chinese: ：
-    pinyin: ':'
-    transliteration: ''
-  - chinese: 太
-    pinyin: tài
-    transliteration: so
-  - chinese: 感谢
-    pinyin: gǎnxiè
-    transliteration: thank
-  - chinese: 你
-    pinyin: nǐ
-    transliteration: you
-  - chinese: 了
-    pinyin: le
-    transliteration: (emphasis)
-  - chinese: ！
-    pinyin: '!'
-    transliteration: ''
-  - chinese: B
-    pinyin: B
-    transliteration: B
-  - chinese: ：
-    pinyin: ':'
-    transliteration: ''
-  - chinese: 没什么
-    pinyin: méishénme
-    transliteration: you're welcome
-  - chinese: ，
-    pinyin: ','
-    transliteration: ''
-  - chinese: 小事
-    pinyin: xiǎoshì
-    transliteration: small matter
-  - chinese: 。
-    pinyin: .
-    transliteration: ''
 - english: This is nothing special, you don't need to be so polite.
   chunks:
   - chinese: 这
@@ -34471,7 +34430,7 @@
   - chinese: 。
     pinyin: .
     transliteration: ''
-- english: There's no Wi-Fi at home today.
+- english: There's no WiFi at home today.
   chunks:
   - chinese: 今天
     pinyin: jīntiān
@@ -34484,7 +34443,7 @@
     transliteration: there's no
   - chinese: 网
     pinyin: wǎng
-    transliteration: Wi-Fi
+    transliteration: WiFi
   - chinese: 。
     pinyin: .
     transliteration: ''
@@ -54055,38 +54014,6 @@
   - chinese: ？
     pinyin: '?'
     transliteration: ''
-- english: 'A: Sorry! B: It''s okay, never mind.'
-  chunks:
-  - chinese: 甲
-    pinyin: jiǎ
-    transliteration: A
-  - chinese: ：
-    pinyin: ':'
-    transliteration: ''
-  - chinese: 对不起
-    pinyin: duìbuqǐ
-    transliteration: sorry
-  - chinese: ！
-    pinyin: '!'
-    transliteration: ''
-  - chinese: 乙
-    pinyin: yǐ
-    transliteration: B
-  - chinese: ：
-    pinyin: ':'
-    transliteration: ''
-  - chinese: 没事儿
-    pinyin: méishìr
-    transliteration: it's okay
-  - chinese: ，
-    pinyin: ','
-    transliteration: ''
-  - chinese: 没事儿
-    pinyin: méishìr
-    transliteration: never mind
-  - chinese: 。
-    pinyin: .
-    transliteration: ''
 - english: If you have some free time, come over and sit for a while.
   chunks:
   - chinese: 没事儿
@@ -67008,7 +66935,7 @@
     pinyin: miǎnfèi
     transliteration: free
   - chinese: Wi-Fi
-    pinyin: Wi-Fi
+    pinyin: wi-fi
     transliteration: Wi-Fi
   - chinese: ，
     pinyin: ','
@@ -76563,7 +76490,7 @@
     pinyin: tōngguò
     transliteration: pass
   - chinese: HSK
-    pinyin: HSK
+    pinyin: hsk
     transliteration: HSK
   - chinese: 考试
     pinyin: kǎoshì
@@ -78019,41 +77946,6 @@
     transliteration: locked
   - chinese: 。
     pinyin: .
-    transliteration: ''
-- english: 'A: May I come in? B: Please come in!'
-  chunks:
-  - chinese: 甲
-    pinyin: jiǎ
-    transliteration: A
-  - chinese: ：
-    pinyin: ':'
-    transliteration: ''
-  - chinese: 我
-    pinyin: wǒ
-    transliteration: I
-  - chinese: 可以
-    pinyin: kěyǐ
-    transliteration: may
-  - chinese: 进来
-    pinyin: jìnlái
-    transliteration: come in
-  - chinese: 吗
-    pinyin: ma
-    transliteration: (question particle)
-  - chinese: ？
-    pinyin: '?'
-    transliteration: ''
-  - chinese: 乙
-    pinyin: yǐ
-    transliteration: B
-  - chinese: ：
-    pinyin: ':'
-    transliteration: ''
-  - chinese: 请进
-    pinyin: qǐngjìn
-    transliteration: please come in
-  - chinese: ！
-    pinyin: '!'
     transliteration: ''
 - english: When I knocked on the door, the teacher said please come in.
   chunks:
@@ -98501,36 +98393,6 @@
   - chinese: 。
     pinyin: 。
     transliteration: ''
-- chinese: A：谢谢你！B：不客气！
-  english: 'A: Thank you! B: You''re welcome!'
-  chunks:
-  - chinese: A
-    pinyin: A
-    transliteration: A
-  - chinese: ：
-    pinyin: ：
-    transliteration: ''
-  - chinese: 谢谢
-    pinyin: xièxie
-    transliteration: thank
-  - chinese: 你
-    pinyin: nǐ
-    transliteration: you
-  - chinese: ！
-    pinyin: ！
-    transliteration: ''
-  - chinese: B
-    pinyin: B
-    transliteration: B
-  - chinese: ：
-    pinyin: ：
-    transliteration: ''
-  - chinese: 不客气
-    pinyin: búkèqi
-    transliteration: you're welcome
-  - chinese: ！
-    pinyin: ！
-    transliteration: ''
 - chinese: 他说话太不客气了，让大家都很尴尬。
   english: He speaks too bluntly, making everyone feel awkward.
   chunks:
@@ -116855,7 +116717,7 @@
     pinyin: zhèkuǎn
     transliteration: this
   - chinese: App
-    pinyin: App
+    pinyin: app
     transliteration: App
   - chinese: 打开
     pinyin: dǎkāi
@@ -130313,7 +130175,7 @@
     pinyin: qù
     transliteration: go
   - chinese: KTV
-    pinyin: KTV
+    pinyin: ktv
     transliteration: KTV
   - chinese: 唱歌
     pinyin: chànggē
@@ -203308,6 +203170,3450 @@
   - chinese: 右边
     pinyin: yòubian
     transliteration: right side
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 你对我太不客气了。
+  english: You are too impolite to me.
+  chunks:
+  - chinese: 你
+    pinyin: nǐ
+    transliteration: you
+  - chinese: 对
+    pinyin: duì
+    transliteration: to
+  - chinese: 我
+    pinyin: wǒ
+    transliteration: me
+  - chinese: 太
+    pinyin: tài
+    transliteration: too
+  - chinese: 不客气
+    pinyin: búkèqi
+    transliteration: impolite
+  - chinese: 了
+    pinyin: le
+    transliteration: (emphasis)
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 不用谢，不客气。
+  english: No need to thank me, you're welcome.
+  chunks:
+  - chinese: 不用
+    pinyin: búyòng
+    transliteration: no need
+  - chinese: 谢
+    pinyin: xiè
+    transliteration: to thank
+  - chinese: ，
+    pinyin: ，
+    transliteration: ''
+  - chinese: 不客气
+    pinyin: búkèqi
+    transliteration: you're welcome
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 他这个人说话不太客气。
+  english: This person speaks rather bluntly.
+  chunks:
+  - chinese: 他
+    pinyin: tā
+    transliteration: he
+  - chinese: 这个
+    pinyin: zhège
+    transliteration: this
+  - chinese: 人
+    pinyin: rén
+    transliteration: person
+  - chinese: 说话
+    pinyin: shuōhuà
+    transliteration: speaks
+  - chinese: 不太
+    pinyin: bútài
+    transliteration: not very
+  - chinese: 客气
+    pinyin: kèqi
+    transliteration: polite
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 你这样说话太不客气了吧？
+  english: Isn't it too rude of you to talk like this?
+  chunks:
+  - chinese: 你
+    pinyin: nǐ
+    transliteration: you
+  - chinese: 这样
+    pinyin: zhèyàng
+    transliteration: like this
+  - chinese: 说话
+    pinyin: shuōhuà
+    transliteration: talk
+  - chinese: 太
+    pinyin: tài
+    transliteration: too
+  - chinese: 不客气
+    pinyin: búkèqi
+    transliteration: rude
+  - chinese: 了
+    pinyin: le
+    transliteration: (emphasis)
+  - chinese: 吧
+    pinyin: ba
+    transliteration: (tag question)
+  - chinese: ？
+    pinyin: ？
+    transliteration: ''
+- chinese: 老师说请坐，我们都坐下了。
+  english: The teacher said please sit, and we all sat down.
+  chunks:
+  - chinese: 老师
+    pinyin: lǎoshī
+    transliteration: teacher
+  - chinese: 说
+    pinyin: shuō
+    transliteration: said
+  - chinese: 请坐
+    pinyin: qǐngzuò
+    transliteration: please sit
+  - chinese: ，
+    pinyin: ，
+    transliteration: ''
+  - chinese: 我们
+    pinyin: wǒmen
+    transliteration: we
+  - chinese: 都
+    pinyin: dōu
+    transliteration: all
+  - chinese: 坐下
+    pinyin: zuòxià
+    transliteration: sat down
+  - chinese: 了
+    pinyin: le
+    transliteration: (completed)
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 你好，请坐，请问你要喝什么？
+  english: Hello, please have a seat. What would you like to drink?
+  chunks:
+  - chinese: 你好
+    pinyin: nǐhǎo
+    transliteration: hello
+  - chinese: ，
+    pinyin: ，
+    transliteration: ''
+  - chinese: 请坐
+    pinyin: qǐngzuò
+    transliteration: please sit
+  - chinese: ，
+    pinyin: ，
+    transliteration: ''
+  - chinese: 请问
+    pinyin: qǐngwèn
+    transliteration: may I ask
+  - chinese: 你
+    pinyin: nǐ
+    transliteration: you
+  - chinese: 要
+    pinyin: yào
+    transliteration: want
+  - chinese: 喝
+    pinyin: hē
+    transliteration: drink
+  - chinese: 什么
+    pinyin: shénme
+    transliteration: what
+  - chinese: ？
+    pinyin: ？
+    transliteration: ''
+- chinese: 他对我说请坐，我就坐下了。
+  english: He said 'please sit' to me, so I sat down.
+  chunks:
+  - chinese: 他
+    pinyin: tā
+    transliteration: he
+  - chinese: 对
+    pinyin: duì
+    transliteration: to
+  - chinese: 我
+    pinyin: wǒ
+    transliteration: me
+  - chinese: 说
+    pinyin: shuō
+    transliteration: said
+  - chinese: 请坐
+    pinyin: qǐngzuò
+    transliteration: please sit
+  - chinese: ，
+    pinyin: ，
+    transliteration: ''
+  - chinese: 我
+    pinyin: wǒ
+    transliteration: I
+  - chinese: 就
+    pinyin: jiù
+    transliteration: then
+  - chinese: 坐下
+    pinyin: zuòxià
+    transliteration: sat down
+  - chinese: 了
+    pinyin: le
+    transliteration: (completed)
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 这里有很多人，请坐那边。
+  english: There are many people here, please sit over there.
+  chunks:
+  - chinese: 这里
+    pinyin: zhèli
+    transliteration: here
+  - chinese: 有
+    pinyin: yǒu
+    transliteration: have
+  - chinese: 很多
+    pinyin: hěnduō
+    transliteration: many
+  - chinese: 人
+    pinyin: rén
+    transliteration: people
+  - chinese: ，
+    pinyin: ，
+    transliteration: ''
+  - chinese: 请坐
+    pinyin: qǐngzuò
+    transliteration: please sit
+  - chinese: 那边
+    pinyin: nàbian
+    transliteration: over there
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 先生，请坐，我们马上开始。
+  english: Sir, please have a seat, we'll begin shortly.
+  chunks:
+  - chinese: 先生
+    pinyin: xiānsheng
+    transliteration: sir
+  - chinese: ，
+    pinyin: ，
+    transliteration: ''
+  - chinese: 请坐
+    pinyin: qǐngzuò
+    transliteration: please sit
+  - chinese: ，
+    pinyin: ，
+    transliteration: ''
+  - chinese: 我们
+    pinyin: wǒmen
+    transliteration: we
+  - chinese: 马上
+    pinyin: mǎshàng
+    transliteration: right away
+  - chinese: 开始
+    pinyin: kāishǐ
+    transliteration: begin
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 请坐，你家人呢？
+  english: Please have a seat, where is your family?
+  chunks:
+  - chinese: 请坐
+    pinyin: qǐngzuò
+    transliteration: please sit
+  - chinese: ，
+    pinyin: ，
+    transliteration: ''
+  - chinese: 你
+    pinyin: nǐ
+    transliteration: your
+  - chinese: 家人
+    pinyin: jiārén
+    transliteration: family
+  - chinese: 呢
+    pinyin: ne
+    transliteration: (question particle)
+  - chinese: ？
+    pinyin: ？
+    transliteration: ''
+- chinese: 他正在看书。
+  english: He is reading a book.
+  chunks:
+  - chinese: 他
+    pinyin: tā
+    transliteration: he
+  - chinese: 正在
+    pinyin: zhèngzài
+    transliteration: is currently
+  - chinese: 看书
+    pinyin: kànshū
+    transliteration: reading a book
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 妈妈正在做饭，你先等一下。
+  english: Mom is cooking, please wait a moment.
+  chunks:
+  - chinese: 妈妈
+    pinyin: māma
+    transliteration: mom
+  - chinese: 正在
+    pinyin: zhèngzài
+    transliteration: is currently
+  - chinese: 做饭
+    pinyin: zuòfàn
+    transliteration: cooking
+  - chinese: ，
+    pinyin: ，
+    transliteration: ''
+  - chinese: 你
+    pinyin: nǐ
+    transliteration: you
+  - chinese: 先
+    pinyin: xiān
+    transliteration: first
+  - chinese: 等
+    pinyin: děng
+    transliteration: wait
+  - chinese: 一下
+    pinyin: yíxià
+    transliteration: a moment
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 我正在学中文，很有意思。
+  english: I am learning Chinese, it's very interesting.
+  chunks:
+  - chinese: 我
+    pinyin: wǒ
+    transliteration: I
+  - chinese: 正在
+    pinyin: zhèngzài
+    transliteration: am currently
+  - chinese: 学
+    pinyin: xué
+    transliteration: learning
+  - chinese: 中文
+    pinyin: zhōngwén
+    transliteration: Chinese
+  - chinese: ，
+    pinyin: ，
+    transliteration: ''
+  - chinese: 很
+    pinyin: hěn
+    transliteration: very
+  - chinese: 有意思
+    pinyin: yǒuyìsi
+    transliteration: interesting
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 老师正在说话，请不要出去。
+  english: The teacher is speaking, please don't go out.
+  chunks:
+  - chinese: 老师
+    pinyin: lǎoshī
+    transliteration: teacher
+  - chinese: 正在
+    pinyin: zhèngzài
+    transliteration: is currently
+  - chinese: 说话
+    pinyin: shuōhuà
+    transliteration: speaking
+  - chinese: ，
+    pinyin: ，
+    transliteration: ''
+  - chinese: 请
+    pinyin: qǐng
+    transliteration: please
+  - chinese: 不要
+    pinyin: bùyào
+    transliteration: don't
+  - chinese: 出去
+    pinyin: chūqù
+    transliteration: go out
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 小明正在写作业吗？
+  english: Is Xiao Ming doing homework?
+  chunks:
+  - chinese: 小明
+    pinyin: xiǎomíng
+    transliteration: Xiao Ming
+  - chinese: 正在
+    pinyin: zhèngzài
+    transliteration: is currently
+  - chinese: 写
+    pinyin: xiě
+    transliteration: writing
+  - chinese: 作业
+    pinyin: zuòyè
+    transliteration: homework
+  - chinese: 吗
+    pinyin: ma
+    transliteration: (question particle)
+  - chinese: ？
+    pinyin: ？
+    transliteration: ''
+- chinese: 外面正在下雨，你带了雨伞吗？
+  english: It's raining outside, did you bring an umbrella?
+  chunks:
+  - chinese: 外面
+    pinyin: wàimiàn
+    transliteration: outside
+  - chinese: 正在
+    pinyin: zhèngzài
+    transliteration: is currently
+  - chinese: 下雨
+    pinyin: xiàyǔ
+    transliteration: raining
+  - chinese: ，
+    pinyin: ，
+    transliteration: ''
+  - chinese: 你
+    pinyin: nǐ
+    transliteration: you
+  - chinese: 带
+    pinyin: dài
+    transliteration: bring
+  - chinese: 了
+    pinyin: le
+    transliteration: (completed)
+  - chinese: 雨伞
+    pinyin: yǔsǎn
+    transliteration: umbrella
+  - chinese: 吗
+    pinyin: ma
+    transliteration: (question particle)
+  - chinese: ？
+    pinyin: ？
+    transliteration: ''
+- chinese: 我们正在开会，一会儿再说。
+  english: We are in a meeting, let's talk later.
+  chunks:
+  - chinese: 我们
+    pinyin: wǒmen
+    transliteration: we
+  - chinese: 正在
+    pinyin: zhèngzài
+    transliteration: are currently
+  - chinese: 开会
+    pinyin: kāihuì
+    transliteration: in a meeting
+  - chinese: ，
+    pinyin: ，
+    transliteration: ''
+  - chinese: 一会儿
+    pinyin: yíhuìr
+    transliteration: a moment later
+  - chinese: 再
+    pinyin: zài
+    transliteration: then
+  - chinese: 说
+    pinyin: shuō
+    transliteration: talk
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 我打电话的时候，他正在睡觉。
+  english: When I called, he was sleeping.
+  chunks:
+  - chinese: 我
+    pinyin: wǒ
+    transliteration: I
+  - chinese: 打电话
+    pinyin: dǎdiànhuà
+    transliteration: called
+  - chinese: 的时候
+    pinyin: deshíhou
+    transliteration: when
+  - chinese: ，
+    pinyin: ，
+    transliteration: ''
+  - chinese: 他
+    pinyin: tā
+    transliteration: he
+  - chinese: 正在
+    pinyin: zhèngzài
+    transliteration: was
+  - chinese: 睡觉
+    pinyin: shuìjiào
+    transliteration: sleeping
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 我来帮忙。
+  english: I'll come help.
+  chunks:
+  - chinese: 我
+    pinyin: wǒ
+    transliteration: I
+  - chinese: 来
+    pinyin: lái
+    transliteration: come to
+  - chinese: 帮忙
+    pinyin: bāngmáng
+    transliteration: help
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 他很喜欢帮忙。
+  english: He really likes to help out.
+  chunks:
+  - chinese: 他
+    pinyin: tā
+    transliteration: he
+  - chinese: 很
+    pinyin: hěn
+    transliteration: very
+  - chinese: 喜欢
+    pinyin: xǐhuan
+    transliteration: likes
+  - chinese: 帮忙
+    pinyin: bāngmáng
+    transliteration: to help
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 我想请你帮忙。
+  english: I'd like to ask you for help.
+  chunks:
+  - chinese: 我
+    pinyin: wǒ
+    transliteration: I
+  - chinese: 想
+    pinyin: xiǎng
+    transliteration: would like to
+  - chinese: 请
+    pinyin: qǐng
+    transliteration: ask
+  - chinese: 你
+    pinyin: nǐ
+    transliteration: you
+  - chinese: 帮忙
+    pinyin: bāngmáng
+    transliteration: help
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 有人帮忙吗？
+  english: Is anyone helping?
+  chunks:
+  - chinese: 有人
+    pinyin: yǒurén
+    transliteration: anyone
+  - chinese: 帮忙
+    pinyin: bāngmáng
+    transliteration: helping
+  - chinese: 吗
+    pinyin: ma
+    transliteration: (question particle)
+  - chinese: ？
+    pinyin: ？
+    transliteration: ''
+- chinese: 妈妈在家帮忙做饭。
+  english: Mom is helping cook at home.
+  chunks:
+  - chinese: 妈妈
+    pinyin: māma
+    transliteration: mom
+  - chinese: 在
+    pinyin: zài
+    transliteration: at
+  - chinese: 家
+    pinyin: jiā
+    transliteration: home
+  - chinese: 帮忙
+    pinyin: bāngmáng
+    transliteration: helping
+  - chinese: 做饭
+    pinyin: zuòfàn
+    transliteration: cook
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 你能不能帮忙一下？
+  english: Could you lend a hand?
+  chunks:
+  - chinese: 你
+    pinyin: nǐ
+    transliteration: you
+  - chinese: 能不能
+    pinyin: néngbunéng
+    transliteration: could you
+  - chinese: 帮忙
+    pinyin: bāngmáng
+    transliteration: help
+  - chinese: 一下
+    pinyin: yíxià
+    transliteration: a bit
+  - chinese: ？
+    pinyin: ？
+    transliteration: ''
+- chinese: 我今天很忙，不能帮忙了。
+  english: I'm very busy today, I can't help anymore.
+  chunks:
+  - chinese: 我
+    pinyin: wǒ
+    transliteration: I
+  - chinese: 今天
+    pinyin: jīntiān
+    transliteration: today
+  - chinese: 很
+    pinyin: hěn
+    transliteration: very
+  - chinese: 忙
+    pinyin: máng
+    transliteration: busy
+  - chinese: ，
+    pinyin: ，
+    transliteration: ''
+  - chinese: 不能
+    pinyin: bùnéng
+    transliteration: cannot
+  - chinese: 帮忙
+    pinyin: bāngmáng
+    transliteration: help
+  - chinese: 了
+    pinyin: le
+    transliteration: (change of state)
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 朋友帮忙了我很多。
+  english: My friend helped me a lot.
+  chunks:
+  - chinese: 朋友
+    pinyin: péngyou
+    transliteration: friend
+  - chinese: 帮忙
+    pinyin: bāngmáng
+    transliteration: helped
+  - chinese: 了
+    pinyin: le
+    transliteration: (completed)
+  - chinese: 我
+    pinyin: wǒ
+    transliteration: me
+  - chinese: 很多
+    pinyin: hěnduō
+    transliteration: a lot
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 这间房子很大。
+  english: This room is very big.
+  chunks:
+  - chinese: 这
+    pinyin: zhè
+    transliteration: this
+  - chinese: 间
+    pinyin: jiān
+    transliteration: (classifier for rooms)
+  - chinese: 房子
+    pinyin: fángzi
+    transliteration: room/house
+  - chinese: 很
+    pinyin: hěn
+    transliteration: very
+  - chinese: 大
+    pinyin: dà
+    transliteration: big
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 他们两个人之间有问题。
+  english: There are problems between the two of them.
+  chunks:
+  - chinese: 他们
+    pinyin: tāmen
+    transliteration: they
+  - chinese: 两
+    pinyin: liǎng
+    transliteration: two
+  - chinese: 个
+    pinyin: gè
+    transliteration: (classifier)
+  - chinese: 人
+    pinyin: rén
+    transliteration: people
+  - chinese: 之间
+    pinyin: zhījiān
+    transliteration: between
+  - chinese: 有
+    pinyin: yǒu
+    transliteration: have
+  - chinese: 问题
+    pinyin: wèntí
+    transliteration: problems
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 我住在三间小房间里。
+  english: I live in three small rooms.
+  chunks:
+  - chinese: 我
+    pinyin: wǒ
+    transliteration: I
+  - chinese: 住
+    pinyin: zhù
+    transliteration: live
+  - chinese: 在
+    pinyin: zài
+    transliteration: in
+  - chinese: 三
+    pinyin: sān
+    transliteration: three
+  - chinese: 间
+    pinyin: jiān
+    transliteration: (classifier for rooms)
+  - chinese: 小
+    pinyin: xiǎo
+    transliteration: small
+  - chinese: 房间
+    pinyin: fángjiān
+    transliteration: rooms
+  - chinese: 里
+    pinyin: lǐ
+    transliteration: inside
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 你有多少间房子？
+  english: How many rooms do you have?
+  chunks:
+  - chinese: 你
+    pinyin: nǐ
+    transliteration: you
+  - chinese: 有
+    pinyin: yǒu
+    transliteration: have
+  - chinese: 多少
+    pinyin: duōshao
+    transliteration: how many
+  - chinese: 间
+    pinyin: jiān
+    transliteration: (classifier for rooms)
+  - chinese: 房子
+    pinyin: fángzi
+    transliteration: rooms
+  - chinese: ？
+    pinyin: ？
+    transliteration: ''
+- chinese: 中间那个是我的。
+  english: The one in the middle is mine.
+  chunks:
+  - chinese: 中间
+    pinyin: zhōngjiān
+    transliteration: middle
+  - chinese: 那个
+    pinyin: nàge
+    transliteration: that one
+  - chinese: 是
+    pinyin: shì
+    transliteration: is
+  - chinese: 我的
+    pinyin: wǒde
+    transliteration: mine
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 这间是我妈妈的房间。
+  english: This one is my mom's room.
+  chunks:
+  - chinese: 这
+    pinyin: zhè
+    transliteration: this
+  - chinese: 间
+    pinyin: jiān
+    transliteration: (classifier for rooms)
+  - chinese: 是
+    pinyin: shì
+    transliteration: is
+  - chinese: 我
+    pinyin: wǒ
+    transliteration: my
+  - chinese: 妈妈
+    pinyin: māma
+    transliteration: mom
+  - chinese: 的
+    pinyin: de
+    transliteration: '''s'
+  - chinese: 房间
+    pinyin: fángjiān
+    transliteration: room
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 我和他之间没有什么问题。
+  english: There are no problems between him and me.
+  chunks:
+  - chinese: 我
+    pinyin: wǒ
+    transliteration: I
+  - chinese: 和
+    pinyin: hé
+    transliteration: and
+  - chinese: 他
+    pinyin: tā
+    transliteration: him
+  - chinese: 之间
+    pinyin: zhījiān
+    transliteration: between
+  - chinese: 没有
+    pinyin: méiyǒu
+    transliteration: don't have
+  - chinese: 什么
+    pinyin: shénme
+    transliteration: any
+  - chinese: 问题
+    pinyin: wèntí
+    transliteration: problems
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 白天和黑天之间，天会很好看。
+  english: Between day and night, the sky looks beautiful.
+  chunks:
+  - chinese: 白天
+    pinyin: báitiān
+    transliteration: daytime
+  - chinese: 和
+    pinyin: hé
+    transliteration: and
+  - chinese: 黑天
+    pinyin: hēitiān
+    transliteration: nighttime
+  - chinese: 之间
+    pinyin: zhījiān
+    transliteration: between
+  - chinese: ，
+    pinyin: ，
+    transliteration: ''
+  - chinese: 天
+    pinyin: tiān
+    transliteration: sky
+  - chinese: 会
+    pinyin: huì
+    transliteration: will
+  - chinese: 很
+    pinyin: hěn
+    transliteration: very
+  - chinese: 好看
+    pinyin: hǎokàn
+    transliteration: beautiful
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 那间房间有人住吗？
+  english: Is anyone living in that room?
+  chunks:
+  - chinese: 那
+    pinyin: nà
+    transliteration: that
+  - chinese: 间
+    pinyin: jiān
+    transliteration: (classifier for rooms)
+  - chinese: 房间
+    pinyin: fángjiān
+    transliteration: room
+  - chinese: 有
+    pinyin: yǒu
+    transliteration: have
+  - chinese: 人
+    pinyin: rén
+    transliteration: someone
+  - chinese: 住
+    pinyin: zhù
+    transliteration: living
+  - chinese: 吗
+    pinyin: ma
+    transliteration: (question particle)
+  - chinese: ？
+    pinyin: ？
+    transliteration: ''
+- chinese: 你来不来都没关系。
+  english: It doesn't matter whether you come or not.
+  chunks:
+  - chinese: 你
+    pinyin: nǐ
+    transliteration: you
+  - chinese: 来
+    pinyin: lái
+    transliteration: come
+  - chinese: 不
+    pinyin: bù
+    transliteration: not
+  - chinese: 来
+    pinyin: lái
+    transliteration: come
+  - chinese: 都
+    pinyin: dōu
+    transliteration: all/both
+  - chinese: 没关系
+    pinyin: méiguānxi
+    transliteration: doesn't matter
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 没关系，下次再说吧。
+  english: It's okay, let's talk about it next time.
+  chunks:
+  - chinese: 没关系
+    pinyin: méiguānxi
+    transliteration: it's okay
+  - chinese: ，
+    pinyin: ，
+    transliteration: ''
+  - chinese: 下次
+    pinyin: xiàcì
+    transliteration: next time
+  - chinese: 再
+    pinyin: zài
+    transliteration: again
+  - chinese: 说
+    pinyin: shuō
+    transliteration: talk
+  - chinese: 吧
+    pinyin: ba
+    transliteration: (suggestion particle)
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 我说没关系，你不用想太多。
+  english: I said it's fine, you don't need to overthink it.
+  chunks:
+  - chinese: 我
+    pinyin: wǒ
+    transliteration: I
+  - chinese: 说
+    pinyin: shuō
+    transliteration: said
+  - chinese: 没关系
+    pinyin: méiguānxi
+    transliteration: it's fine
+  - chinese: ，
+    pinyin: ，
+    transliteration: ''
+  - chinese: 你
+    pinyin: nǐ
+    transliteration: you
+  - chinese: 不用
+    pinyin: bùyòng
+    transliteration: don't need to
+  - chinese: 想
+    pinyin: xiǎng
+    transliteration: think
+  - chinese: 太
+    pinyin: tài
+    transliteration: too
+  - chinese: 多
+    pinyin: duō
+    transliteration: much
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 钱多钱少没关系，开心就好。
+  english: It doesn't matter if it's more or less money, as long as you're happy.
+  chunks:
+  - chinese: 钱
+    pinyin: qián
+    transliteration: money
+  - chinese: 多
+    pinyin: duō
+    transliteration: more
+  - chinese: 钱
+    pinyin: qián
+    transliteration: money
+  - chinese: 少
+    pinyin: shǎo
+    transliteration: less
+  - chinese: 没关系
+    pinyin: méiguānxi
+    transliteration: doesn't matter
+  - chinese: ，
+    pinyin: ，
+    transliteration: ''
+  - chinese: 开心
+    pinyin: kāixīn
+    transliteration: happy
+  - chinese: 就
+    pinyin: jiù
+    transliteration: then
+  - chinese: 好
+    pinyin: hǎo
+    transliteration: good
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 真的没关系吗？
+  english: Does it really not matter?
+  chunks:
+  - chinese: 真的
+    pinyin: zhēnde
+    transliteration: really
+  - chinese: 没关系
+    pinyin: méiguānxi
+    transliteration: doesn't matter
+  - chinese: 吗
+    pinyin: ma
+    transliteration: (question particle)
+  - chinese: ？
+    pinyin: ？
+    transliteration: ''
+- chinese: 他说没关系，但是他看起来不太高兴。
+  english: He said it was fine, but he didn't look very happy.
+  chunks:
+  - chinese: 他
+    pinyin: tā
+    transliteration: he
+  - chinese: 说
+    pinyin: shuō
+    transliteration: said
+  - chinese: 没关系
+    pinyin: méiguānxi
+    transliteration: it was fine
+  - chinese: ，
+    pinyin: ，
+    transliteration: ''
+  - chinese: 但是
+    pinyin: dànshì
+    transliteration: but
+  - chinese: 他
+    pinyin: tā
+    transliteration: he
+  - chinese: 看起来
+    pinyin: kànqilai
+    transliteration: looks
+  - chinese: 不太
+    pinyin: bùtài
+    transliteration: not very
+  - chinese: 高兴
+    pinyin: gāoxìng
+    transliteration: happy
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 没关系，这是小事。
+  english: It's okay, this is a small matter.
+  chunks:
+  - chinese: 没关系
+    pinyin: méiguānxi
+    transliteration: it's okay
+  - chinese: ，
+    pinyin: ，
+    transliteration: ''
+  - chinese: 这
+    pinyin: zhè
+    transliteration: this
+  - chinese: 是
+    pinyin: shì
+    transliteration: is
+  - chinese: 小事
+    pinyin: xiǎoshì
+    transliteration: small matter
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 你不会做也没关系，我来教你。
+  english: It's okay if you can't do it, I'll teach you.
+  chunks:
+  - chinese: 你
+    pinyin: nǐ
+    transliteration: you
+  - chinese: 不会
+    pinyin: bùhuì
+    transliteration: can't
+  - chinese: 做
+    pinyin: zuò
+    transliteration: do
+  - chinese: 也
+    pinyin: yě
+    transliteration: also
+  - chinese: 没关系
+    pinyin: méiguānxi
+    transliteration: doesn't matter
+  - chinese: ，
+    pinyin: ，
+    transliteration: ''
+  - chinese: 我
+    pinyin: wǒ
+    transliteration: I
+  - chinese: 来
+    pinyin: lái
+    transliteration: will
+  - chinese: 教
+    pinyin: jiāo
+    transliteration: teach
+  - chinese: 你
+    pinyin: nǐ
+    transliteration: you
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 他回答得很好。
+  english: He answered very well.
+  chunks:
+  - chinese: 他
+    pinyin: tā
+    transliteration: he
+  - chinese: 回答
+    pinyin: huídá
+    transliteration: answered
+  - chinese: 得
+    pinyin: de
+    transliteration: (degree marker)
+  - chinese: 很
+    pinyin: hěn
+    transliteration: very
+  - chinese: 好
+    pinyin: hǎo
+    transliteration: well
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 她回答了我的电话。
+  english: She answered my phone call.
+  chunks:
+  - chinese: 她
+    pinyin: tā
+    transliteration: she
+  - chinese: 回答
+    pinyin: huídá
+    transliteration: answered
+  - chinese: 了
+    pinyin: le
+    transliteration: (completed)
+  - chinese: 我
+    pinyin: wǒ
+    transliteration: my
+  - chinese: 的
+    pinyin: de
+    transliteration: (possessive)
+  - chinese: 电话
+    pinyin: diànhuà
+    transliteration: phone call
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 这个回答是对的。
+  english: This answer is correct.
+  chunks:
+  - chinese: 这个
+    pinyin: zhège
+    transliteration: this
+  - chinese: 回答
+    pinyin: huídá
+    transliteration: answer
+  - chinese: 是
+    pinyin: shì
+    transliteration: is
+  - chinese: 对
+    pinyin: duì
+    transliteration: correct
+  - chinese: 的
+    pinyin: de
+    transliteration: (confirmation)
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 他的回答让大家都很高兴。
+  english: His answer made everyone very happy.
+  chunks:
+  - chinese: 他
+    pinyin: tā
+    transliteration: his
+  - chinese: 的
+    pinyin: de
+    transliteration: (possessive)
+  - chinese: 回答
+    pinyin: huídá
+    transliteration: answer
+  - chinese: 让
+    pinyin: ràng
+    transliteration: made
+  - chinese: 大家
+    pinyin: dàjiā
+    transliteration: everyone
+  - chinese: 都
+    pinyin: dōu
+    transliteration: all
+  - chinese: 很
+    pinyin: hěn
+    transliteration: very
+  - chinese: 高兴
+    pinyin: gāoxìng
+    transliteration: happy
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 他每天干什么？
+  english: What does he do every day?
+  chunks:
+  - chinese: 他
+    pinyin: tā
+    transliteration: he
+  - chinese: 每天
+    pinyin: měitiān
+    transliteration: every day
+  - chinese: 干什么
+    pinyin: gànshénme
+    transliteration: do what
+  - chinese: ？
+    pinyin: ？
+    transliteration: ''
+- chinese: 你来这里干什么？
+  english: What are you here for?
+  chunks:
+  - chinese: 你
+    pinyin: nǐ
+    transliteration: you
+  - chinese: 来
+    pinyin: lái
+    transliteration: come
+  - chinese: 这里
+    pinyin: zhèlǐ
+    transliteration: here
+  - chinese: 干什么
+    pinyin: gànshénme
+    transliteration: for what
+  - chinese: ？
+    pinyin: ？
+    transliteration: ''
+- chinese: 明天你想干什么？
+  english: What do you want to do tomorrow?
+  chunks:
+  - chinese: 明天
+    pinyin: míngtiān
+    transliteration: tomorrow
+  - chinese: 你
+    pinyin: nǐ
+    transliteration: you
+  - chinese: 想
+    pinyin: xiǎng
+    transliteration: want to
+  - chinese: 干什么
+    pinyin: gànshénme
+    transliteration: do what
+  - chinese: ？
+    pinyin: ？
+    transliteration: ''
+- chinese: 你不工作，在家干什么？
+  english: If you're not working, what do you do at home?
+  chunks:
+  - chinese: 你
+    pinyin: nǐ
+    transliteration: you
+  - chinese: 不
+    pinyin: bù
+    transliteration: not
+  - chinese: 工作
+    pinyin: gōngzuò
+    transliteration: work
+  - chinese: ，
+    pinyin: ，
+    transliteration: ''
+  - chinese: 在
+    pinyin: zài
+    transliteration: at
+  - chinese: 家
+    pinyin: jiā
+    transliteration: home
+  - chinese: 干什么
+    pinyin: gànshénme
+    transliteration: do what
+  - chinese: ？
+    pinyin: ？
+    transliteration: ''
+- chinese: 那个人在干什么？
+  english: What is that person doing?
+  chunks:
+  - chinese: 那个
+    pinyin: nàge
+    transliteration: that
+  - chinese: 人
+    pinyin: rén
+    transliteration: person
+  - chinese: 在
+    pinyin: zài
+    transliteration: is (doing)
+  - chinese: 干什么
+    pinyin: gànshénme
+    transliteration: doing what
+  - chinese: ？
+    pinyin: ？
+    transliteration: ''
+- chinese: 你们下了课干什么？
+  english: What do you do after class?
+  chunks:
+  - chinese: 你们
+    pinyin: nǐmen
+    transliteration: you (plural)
+  - chinese: 下了课
+    pinyin: xiàlekè
+    transliteration: after class
+  - chinese: 干什么
+    pinyin: gànshénme
+    transliteration: do what
+  - chinese: ？
+    pinyin: ？
+    transliteration: ''
+- chinese: 他出去干什么了？
+  english: What did he go out to do?
+  chunks:
+  - chinese: 他
+    pinyin: tā
+    transliteration: he
+  - chinese: 出去
+    pinyin: chūqu
+    transliteration: go out
+  - chinese: 干什么
+    pinyin: gànshénme
+    transliteration: do what
+  - chinese: 了
+    pinyin: le
+    transliteration: (completed)
+  - chinese: ？
+    pinyin: ？
+    transliteration: ''
+- chinese: 请认真听我说。
+  english: Please listen to me carefully.
+  chunks:
+  - chinese: 请
+    pinyin: qǐng
+    transliteration: please
+  - chinese: 认真
+    pinyin: rènzhēn
+    transliteration: carefully
+  - chinese: 听
+    pinyin: tīng
+    transliteration: listen
+  - chinese: 我
+    pinyin: wǒ
+    transliteration: me
+  - chinese: 说
+    pinyin: shuō
+    transliteration: speak
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 你认真吗？
+  english: Are you serious?
+  chunks:
+  - chinese: 你
+    pinyin: nǐ
+    transliteration: you
+  - chinese: 认真
+    pinyin: rènzhēn
+    transliteration: serious
+  - chinese: 吗
+    pinyin: ma
+    transliteration: (question particle)
+  - chinese: ？
+    pinyin: ？
+    transliteration: ''
+- chinese: 她做事很认真。
+  english: She does things very conscientiously.
+  chunks:
+  - chinese: 她
+    pinyin: tā
+    transliteration: she
+  - chinese: 做事
+    pinyin: zuòshì
+    transliteration: does things
+  - chinese: 很
+    pinyin: hěn
+    transliteration: very
+  - chinese: 认真
+    pinyin: rènzhēn
+    transliteration: conscientiously
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 老师说我们要认真学习。
+  english: The teacher said we should study earnestly.
+  chunks:
+  - chinese: 老师
+    pinyin: lǎoshī
+    transliteration: teacher
+  - chinese: 说
+    pinyin: shuō
+    transliteration: said
+  - chinese: 我们
+    pinyin: wǒmen
+    transliteration: we
+  - chinese: 要
+    pinyin: yào
+    transliteration: should
+  - chinese: 认真
+    pinyin: rènzhēn
+    transliteration: earnestly
+  - chinese: 学习
+    pinyin: xuéxí
+    transliteration: study
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 他认真地看了这本书。
+  english: He read this book seriously.
+  chunks:
+  - chinese: 他
+    pinyin: tā
+    transliteration: he
+  - chinese: 认真
+    pinyin: rènzhēn
+    transliteration: seriously
+  - chinese: 地
+    pinyin: de
+    transliteration: (adverbial marker)
+  - chinese: 看
+    pinyin: kàn
+    transliteration: read
+  - chinese: 了
+    pinyin: le
+    transliteration: (completed action)
+  - chinese: 这
+    pinyin: zhè
+    transliteration: this
+  - chinese: 本
+    pinyin: běn
+    transliteration: (measure word)
+  - chinese: 书
+    pinyin: shū
+    transliteration: book
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 你太不认真了！
+  english: You're too careless!
+  chunks:
+  - chinese: 你
+    pinyin: nǐ
+    transliteration: you
+  - chinese: 太
+    pinyin: tài
+    transliteration: too
+  - chinese: 不
+    pinyin: bù
+    transliteration: not
+  - chinese: 认真
+    pinyin: rènzhēn
+    transliteration: serious
+  - chinese: 了
+    pinyin: le
+    transliteration: (emphasis)
+  - chinese: ！
+    pinyin: ！
+    transliteration: ''
+- chinese: 我会认真想一想。
+  english: I will think about it seriously.
+  chunks:
+  - chinese: 我
+    pinyin: wǒ
+    transliteration: I
+  - chinese: 会
+    pinyin: huì
+    transliteration: will
+  - chinese: 认真
+    pinyin: rènzhēn
+    transliteration: seriously
+  - chinese: 想一想
+    pinyin: xiǎngyixiǎng
+    transliteration: think about it
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 小明是个认真的学生。
+  english: Xiao Ming is a conscientious student.
+  chunks:
+  - chinese: 小明
+    pinyin: xiǎomíng
+    transliteration: Xiao Ming
+  - chinese: 是
+    pinyin: shì
+    transliteration: is
+  - chinese: 个
+    pinyin: gè
+    transliteration: (measure word)
+  - chinese: 认真
+    pinyin: rènzhēn
+    transliteration: conscientious
+  - chinese: 的
+    pinyin: de
+    transliteration: (attributive marker)
+  - chinese: 学生
+    pinyin: xuésheng
+    transliteration: student
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 这件事你要认真对。
+  english: You need to take this matter seriously.
+  chunks:
+  - chinese: 这
+    pinyin: zhè
+    transliteration: this
+  - chinese: 件
+    pinyin: jiàn
+    transliteration: (measure word)
+  - chinese: 事
+    pinyin: shì
+    transliteration: matter
+  - chinese: 你
+    pinyin: nǐ
+    transliteration: you
+  - chinese: 要
+    pinyin: yào
+    transliteration: need to
+  - chinese: 认真
+    pinyin: rènzhēn
+    transliteration: seriously
+  - chinese: 对
+    pinyin: duì
+    transliteration: treat
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 慢慢来，不要着急。
+  english: Take your time, don't rush.
+  chunks:
+  - chinese: 慢慢
+    pinyin: mànmàn
+    transliteration: slowly
+  - chinese: 来
+    pinyin: lái
+    transliteration: come/do
+  - chinese: ，
+    pinyin: ，
+    transliteration: ''
+  - chinese: 不要
+    pinyin: búyào
+    transliteration: don't
+  - chinese: 着急
+    pinyin: zháojí
+    transliteration: rush
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 这个车太慢了，我们会晚到。
+  english: This car is too slow, we will arrive late.
+  chunks:
+  - chinese: 这个
+    pinyin: zhège
+    transliteration: this
+  - chinese: 车
+    pinyin: chē
+    transliteration: car
+  - chinese: 太
+    pinyin: tài
+    transliteration: too
+  - chinese: 慢
+    pinyin: màn
+    transliteration: slow
+  - chinese: 了
+    pinyin: le
+    transliteration: (excessive degree)
+  - chinese: ，
+    pinyin: ，
+    transliteration: ''
+  - chinese: 我们
+    pinyin: wǒmen
+    transliteration: we
+  - chinese: 会
+    pinyin: huì
+    transliteration: will
+  - chinese: 晚
+    pinyin: wǎn
+    transliteration: late
+  - chinese: 到
+    pinyin: dào
+    transliteration: arrive
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 他吃饭很慢。
+  english: He eats very slowly.
+  chunks:
+  - chinese: 他
+    pinyin: tā
+    transliteration: he
+  - chinese: 吃饭
+    pinyin: chīfàn
+    transliteration: eat
+  - chinese: 很
+    pinyin: hěn
+    transliteration: very
+  - chinese: 慢
+    pinyin: màn
+    transliteration: slow
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 你能慢一点吗？
+  english: Can you slow down a bit?
+  chunks:
+  - chinese: 你
+    pinyin: nǐ
+    transliteration: you
+  - chinese: 能
+    pinyin: néng
+    transliteration: can
+  - chinese: 慢
+    pinyin: màn
+    transliteration: slow
+  - chinese: 一点
+    pinyin: yìdiǎn
+    transliteration: a bit
+  - chinese: 吗
+    pinyin: ma
+    transliteration: (question particle)
+  - chinese: ？
+    pinyin: ？
+    transliteration: ''
+- chinese: 时间过得真慢啊！
+  english: Time passes so slowly!
+  chunks:
+  - chinese: 时间
+    pinyin: shíjiān
+    transliteration: time
+  - chinese: 过
+    pinyin: guò
+    transliteration: pass
+  - chinese: 得
+    pinyin: de
+    transliteration: (degree marker)
+  - chinese: 真
+    pinyin: zhēn
+    transliteration: really
+  - chinese: 慢
+    pinyin: màn
+    transliteration: slow
+  - chinese: 啊
+    pinyin: a
+    transliteration: (exclamation)
+  - chinese: ！
+    pinyin: ！
+    transliteration: ''
+- chinese: 我做事比他慢。
+  english: I do things more slowly than him.
+  chunks:
+  - chinese: 我
+    pinyin: wǒ
+    transliteration: I
+  - chinese: 做事
+    pinyin: zuòshì
+    transliteration: do things
+  - chinese: 比
+    pinyin: bǐ
+    transliteration: than
+  - chinese: 他
+    pinyin: tā
+    transliteration: him
+  - chinese: 慢
+    pinyin: màn
+    transliteration: slow
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 你慢慢想，不着急。
+  english: Think it over slowly, no rush.
+  chunks:
+  - chinese: 你
+    pinyin: nǐ
+    transliteration: you
+  - chinese: 慢慢
+    pinyin: mànmàn
+    transliteration: slowly
+  - chinese: 想
+    pinyin: xiǎng
+    transliteration: think
+  - chinese: ，
+    pinyin: ，
+    transliteration: ''
+  - chinese: 不
+    pinyin: bù
+    transliteration: not
+  - chinese: 着急
+    pinyin: zháojí
+    transliteration: rush
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 我听见有人在说话。
+  english: I heard someone talking.
+  chunks:
+  - chinese: 我
+    pinyin: wǒ
+    transliteration: I
+  - chinese: 听见
+    pinyin: tīngjiàn
+    transliteration: heard
+  - chinese: 有人
+    pinyin: yǒurén
+    transliteration: someone
+  - chinese: 在
+    pinyin: zài
+    transliteration: (in progress)
+  - chinese: 说话
+    pinyin: shuōhuà
+    transliteration: talking
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 他没有听见我的话。
+  english: He didn't hear what I said.
+  chunks:
+  - chinese: 他
+    pinyin: tā
+    transliteration: he
+  - chinese: 没有
+    pinyin: méiyǒu
+    transliteration: didn't
+  - chinese: 听见
+    pinyin: tīngjiàn
+    transliteration: hear
+  - chinese: 我
+    pinyin: wǒ
+    transliteration: my
+  - chinese: 的
+    pinyin: de
+    transliteration: (possessive)
+  - chinese: 话
+    pinyin: huà
+    transliteration: words
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 我听见了一个很大的声音。
+  english: I heard a very loud sound.
+  chunks:
+  - chinese: 我
+    pinyin: wǒ
+    transliteration: I
+  - chinese: 听见
+    pinyin: tīngjiàn
+    transliteration: heard
+  - chinese: 了
+    pinyin: le
+    transliteration: (completed)
+  - chinese: 一个
+    pinyin: yíge
+    transliteration: a
+  - chinese: 很
+    pinyin: hěn
+    transliteration: very
+  - chinese: 大
+    pinyin: dà
+    transliteration: loud
+  - chinese: 的
+    pinyin: de
+    transliteration: (descriptive)
+  - chinese: 声音
+    pinyin: shēngyīn
+    transliteration: sound
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 她在家里听见了电话声。
+  english: She heard the phone ringing at home.
+  chunks:
+  - chinese: 她
+    pinyin: tā
+    transliteration: she
+  - chinese: 在
+    pinyin: zài
+    transliteration: at
+  - chinese: 家里
+    pinyin: jiālǐ
+    transliteration: home
+  - chinese: 听见
+    pinyin: tīngjiàn
+    transliteration: heard
+  - chinese: 了
+    pinyin: le
+    transliteration: (completed)
+  - chinese: 电话
+    pinyin: diànhuà
+    transliteration: phone
+  - chinese: 声
+    pinyin: shēng
+    transliteration: sound
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 太小了，我听不见！
+  english: It's too quiet, I can't hear it!
+  chunks:
+  - chinese: 太
+    pinyin: tài
+    transliteration: too
+  - chinese: 小
+    pinyin: xiǎo
+    transliteration: quiet
+  - chinese: 了
+    pinyin: le
+    transliteration: (excessive)
+  - chinese: ，
+    pinyin: ，
+    transliteration: ''
+  - chinese: 我
+    pinyin: wǒ
+    transliteration: I
+  - chinese: 听不见
+    pinyin: tīngbujiàn
+    transliteration: can't hear
+  - chinese: ！
+    pinyin: ！
+    transliteration: ''
+- chinese: 你说大声一点，我听不见。
+  english: Speak louder, I can't hear you.
+  chunks:
+  - chinese: 你
+    pinyin: nǐ
+    transliteration: you
+  - chinese: 说
+    pinyin: shuō
+    transliteration: speak
+  - chinese: 大声
+    pinyin: dàshēng
+    transliteration: louder
+  - chinese: 一点
+    pinyin: yìdiǎn
+    transliteration: a little
+  - chinese: ，
+    pinyin: ，
+    transliteration: ''
+  - chinese: 我
+    pinyin: wǒ
+    transliteration: I
+  - chinese: 听不见
+    pinyin: tīngbujiàn
+    transliteration: can't hear
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 小孩听见了妈妈的声音。
+  english: The child heard mom's voice.
+  chunks:
+  - chinese: 小孩
+    pinyin: xiǎohái
+    transliteration: child
+  - chinese: 听见
+    pinyin: tīngjiàn
+    transliteration: heard
+  - chinese: 了
+    pinyin: le
+    transliteration: (completed)
+  - chinese: 妈妈
+    pinyin: māma
+    transliteration: mom
+  - chinese: 的
+    pinyin: de
+    transliteration: (possessive)
+  - chinese: 声音
+    pinyin: shēngyīn
+    transliteration: voice
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 我们都听见他说的话了。
+  english: We all heard what he said.
+  chunks:
+  - chinese: 我们
+    pinyin: wǒmen
+    transliteration: we
+  - chinese: 都
+    pinyin: dōu
+    transliteration: all
+  - chinese: 听见
+    pinyin: tīngjiàn
+    transliteration: heard
+  - chinese: 他
+    pinyin: tā
+    transliteration: he
+  - chinese: 说
+    pinyin: shuō
+    transliteration: said
+  - chinese: 的
+    pinyin: de
+    transliteration: (descriptive)
+  - chinese: 话
+    pinyin: huà
+    transliteration: words
+  - chinese: 了
+    pinyin: le
+    transliteration: (completed)
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 我很喜欢吃肉。
+  english: I really like eating meat.
+  chunks:
+  - chinese: 我
+    pinyin: wǒ
+    transliteration: I
+  - chinese: 很
+    pinyin: hěn
+    transliteration: really
+  - chinese: 喜欢
+    pinyin: xǐhuan
+    transliteration: like
+  - chinese: 吃
+    pinyin: chī
+    transliteration: eat
+  - chinese: 肉
+    pinyin: ròu
+    transliteration: meat
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 这个肉太好吃了！
+  english: This meat is so delicious!
+  chunks:
+  - chinese: 这个
+    pinyin: zhège
+    transliteration: this
+  - chinese: 肉
+    pinyin: ròu
+    transliteration: meat
+  - chinese: 太
+    pinyin: tài
+    transliteration: too/so
+  - chinese: 好吃
+    pinyin: hǎochī
+    transliteration: delicious
+  - chinese: 了
+    pinyin: le
+    transliteration: (emphasis)
+  - chinese: ！
+    pinyin: ！
+    transliteration: ''
+- chinese: 你想吃什么肉？
+  english: What kind of meat do you want to eat?
+  chunks:
+  - chinese: 你
+    pinyin: nǐ
+    transliteration: you
+  - chinese: 想
+    pinyin: xiǎng
+    transliteration: want
+  - chinese: 吃
+    pinyin: chī
+    transliteration: eat
+  - chinese: 什么
+    pinyin: shénme
+    transliteration: what
+  - chinese: 肉
+    pinyin: ròu
+    transliteration: meat
+  - chinese: ？
+    pinyin: ？
+    transliteration: ''
+- chinese: 我不吃肉，我吃菜。
+  english: I don't eat meat, I eat vegetables.
+  chunks:
+  - chinese: 我
+    pinyin: wǒ
+    transliteration: I
+  - chinese: 不
+    pinyin: bù
+    transliteration: not
+  - chinese: 吃
+    pinyin: chī
+    transliteration: eat
+  - chinese: 肉
+    pinyin: ròu
+    transliteration: meat
+  - chinese: ，
+    pinyin: ，
+    transliteration: ''
+  - chinese: 我
+    pinyin: wǒ
+    transliteration: I
+  - chinese: 吃
+    pinyin: chī
+    transliteration: eat
+  - chinese: 菜
+    pinyin: cài
+    transliteration: vegetables
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 妈妈买了很多肉回来。
+  english: Mom bought a lot of meat.
+  chunks:
+  - chinese: 妈妈
+    pinyin: māma
+    transliteration: mom
+  - chinese: 买
+    pinyin: mǎi
+    transliteration: bought
+  - chinese: 了
+    pinyin: le
+    transliteration: (completed)
+  - chinese: 很多
+    pinyin: hěnduō
+    transliteration: a lot of
+  - chinese: 肉
+    pinyin: ròu
+    transliteration: meat
+  - chinese: 回来
+    pinyin: huílai
+    transliteration: back
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 他把肉都吃了。
+  english: He ate all the meat.
+  chunks:
+  - chinese: 他
+    pinyin: tā
+    transliteration: he
+  - chinese: 把
+    pinyin: bǎ
+    transliteration: (object-focus marker)
+  - chinese: 肉
+    pinyin: ròu
+    transliteration: meat
+  - chinese: 都
+    pinyin: dōu
+    transliteration: all
+  - chinese: 吃
+    pinyin: chī
+    transliteration: ate
+  - chinese: 了
+    pinyin: le
+    transliteration: (completed)
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 这里的肉多少钱一个？
+  english: How much is the meat here per piece?
+  chunks:
+  - chinese: 这里
+    pinyin: zhèlǐ
+    transliteration: here
+  - chinese: 的
+    pinyin: de
+    transliteration: (possessive)
+  - chinese: 肉
+    pinyin: ròu
+    transliteration: meat
+  - chinese: 多少
+    pinyin: duōshao
+    transliteration: how much
+  - chinese: 钱
+    pinyin: qián
+    transliteration: money
+  - chinese: 一个
+    pinyin: yígè
+    transliteration: per piece
+  - chinese: ？
+    pinyin: ？
+    transliteration: ''
+- chinese: 小狗在吃肉。
+  english: The puppy is eating meat.
+  chunks:
+  - chinese: 小狗
+    pinyin: xiǎogǒu
+    transliteration: puppy
+  - chinese: 在
+    pinyin: zài
+    transliteration: (progressive marker)
+  - chinese: 吃
+    pinyin: chī
+    transliteration: eating
+  - chinese: 肉
+    pinyin: ròu
+    transliteration: meat
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 今天我们家吃鱼，不吃肉。
+  english: Today our family is eating fish, not meat.
+  chunks:
+  - chinese: 今天
+    pinyin: jīntiān
+    transliteration: today
+  - chinese: 我们
+    pinyin: wǒmen
+    transliteration: our
+  - chinese: 家
+    pinyin: jiā
+    transliteration: family
+  - chinese: 吃
+    pinyin: chī
+    transliteration: eat
+  - chinese: 鱼
+    pinyin: yú
+    transliteration: fish
+  - chinese: ，
+    pinyin: ，
+    transliteration: ''
+  - chinese: 不
+    pinyin: bù
+    transliteration: not
+  - chinese: 吃
+    pinyin: chī
+    transliteration: eat
+  - chinese: 肉
+    pinyin: ròu
+    transliteration: meat
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 你吃过这种肉吗？
+  english: Have you eaten this kind of meat before?
+  chunks:
+  - chinese: 你
+    pinyin: nǐ
+    transliteration: you
+  - chinese: 吃
+    pinyin: chī
+    transliteration: eaten
+  - chinese: 过
+    pinyin: guo
+    transliteration: (experience marker)
+  - chinese: 这种
+    pinyin: zhèzhǒng
+    transliteration: this kind of
+  - chinese: 肉
+    pinyin: ròu
+    transliteration: meat
+  - chinese: 吗
+    pinyin: ma
+    transliteration: (question particle)
+  - chinese: ？
+    pinyin: ？
+    transliteration: ''
+- chinese: 他开汽车去上班。
+  english: He drives a car to work.
+  chunks:
+  - chinese: 他
+    pinyin: tā
+    transliteration: he
+  - chinese: 开
+    pinyin: kāi
+    transliteration: drives
+  - chinese: 汽车
+    pinyin: qìchē
+    transliteration: car
+  - chinese: 去
+    pinyin: qù
+    transliteration: to go
+  - chinese: 上班
+    pinyin: shàngbān
+    transliteration: to work
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 那辆汽车是红的。
+  english: That car is red.
+  chunks:
+  - chinese: 那
+    pinyin: nà
+    transliteration: that
+  - chinese: 辆
+    pinyin: liàng
+    transliteration: (measure word for vehicles)
+  - chinese: 汽车
+    pinyin: qìchē
+    transliteration: car
+  - chinese: 是
+    pinyin: shì
+    transliteration: is
+  - chinese: 红
+    pinyin: hóng
+    transliteration: red
+  - chinese: 的
+    pinyin: de
+    transliteration: (adjective marker)
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 汽车在外面。
+  english: The car is outside.
+  chunks:
+  - chinese: 汽车
+    pinyin: qìchē
+    transliteration: car
+  - chinese: 在
+    pinyin: zài
+    transliteration: is at
+  - chinese: 外面
+    pinyin: wàimian
+    transliteration: outside
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 这辆汽车太大了！
+  english: This car is too big!
+  chunks:
+  - chinese: 这
+    pinyin: zhè
+    transliteration: this
+  - chinese: 辆
+    pinyin: liàng
+    transliteration: (measure word for vehicles)
+  - chinese: 汽车
+    pinyin: qìchē
+    transliteration: car
+  - chinese: 太
+    pinyin: tài
+    transliteration: too
+  - chinese: 大
+    pinyin: dà
+    transliteration: big
+  - chinese: 了
+    pinyin: le
+    transliteration: (exclamatory)
+  - chinese: ！
+    pinyin: ！
+    transliteration: ''
+- chinese: 我们坐汽车去吧。
+  english: Let's go by car.
+  chunks:
+  - chinese: 我们
+    pinyin: wǒmen
+    transliteration: we
+  - chinese: 坐
+    pinyin: zuò
+    transliteration: take/ride
+  - chinese: 汽车
+    pinyin: qìchē
+    transliteration: car
+  - chinese: 去
+    pinyin: qù
+    transliteration: go
+  - chinese: 吧
+    pinyin: ba
+    transliteration: (suggestion particle)
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 你的汽车在哪儿？
+  english: Where is your car?
+  chunks:
+  - chinese: 你
+    pinyin: nǐ
+    transliteration: your
+  - chinese: 的
+    pinyin: de
+    transliteration: (possessive)
+  - chinese: 汽车
+    pinyin: qìchē
+    transliteration: car
+  - chinese: 在
+    pinyin: zài
+    transliteration: is at
+  - chinese: 哪儿
+    pinyin: nǎr
+    transliteration: where
+  - chinese: ？
+    pinyin: ？
+    transliteration: ''
+- chinese: 你的手干净吗？
+  english: Are your hands clean?
+  chunks:
+  - chinese: 你的
+    pinyin: nǐde
+    transliteration: your
+  - chinese: 手
+    pinyin: shǒu
+    transliteration: hands
+  - chinese: 干净
+    pinyin: gānjìng
+    transliteration: clean
+  - chinese: 吗
+    pinyin: ma
+    transliteration: (question particle)
+  - chinese: ？
+    pinyin: ？
+    transliteration: ''
+- chinese: 我把桌子打扫干净了。
+  english: I cleaned the table.
+  chunks:
+  - chinese: 我
+    pinyin: wǒ
+    transliteration: I
+  - chinese: 把
+    pinyin: bǎ
+    transliteration: (object-focus marker)
+  - chinese: 桌子
+    pinyin: zhuōzi
+    transliteration: table
+  - chinese: 打扫
+    pinyin: dǎsǎo
+    transliteration: cleaned
+  - chinese: 干净
+    pinyin: gānjìng
+    transliteration: clean
+  - chinese: 了
+    pinyin: le
+    transliteration: (completed action)
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 吃东西前要把手洗干净。
+  english: You should wash your hands clean before eating.
+  chunks:
+  - chinese: 吃
+    pinyin: chī
+    transliteration: eat
+  - chinese: 东西
+    pinyin: dōngxi
+    transliteration: things
+  - chinese: 前
+    pinyin: qián
+    transliteration: before
+  - chinese: 要
+    pinyin: yào
+    transliteration: should
+  - chinese: 把
+    pinyin: bǎ
+    transliteration: (object-focus marker)
+  - chinese: 手
+    pinyin: shǒu
+    transliteration: hands
+  - chinese: 洗
+    pinyin: xǐ
+    transliteration: wash
+  - chinese: 干净
+    pinyin: gānjìng
+    transliteration: clean
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 她的衣服又好看又干净。
+  english: Her clothes are both pretty and clean.
+  chunks:
+  - chinese: 她的
+    pinyin: tāde
+    transliteration: her
+  - chinese: 衣服
+    pinyin: yīfu
+    transliteration: clothes
+  - chinese: 又
+    pinyin: yòu
+    transliteration: both
+  - chinese: 好看
+    pinyin: hǎokàn
+    transliteration: pretty
+  - chinese: 又
+    pinyin: yòu
+    transliteration: and
+  - chinese: 干净
+    pinyin: gānjìng
+    transliteration: clean
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 房间被妈妈打扫得很干净。
+  english: The room was cleaned very well by mom.
+  chunks:
+  - chinese: 房间
+    pinyin: fángjiān
+    transliteration: room
+  - chinese: 被
+    pinyin: bèi
+    transliteration: (passive marker)
+  - chinese: 妈妈
+    pinyin: māma
+    transliteration: mom
+  - chinese: 打扫
+    pinyin: dǎsǎo
+    transliteration: cleaned
+  - chinese: 得
+    pinyin: de
+    transliteration: (degree complement marker)
+  - chinese: 很
+    pinyin: hěn
+    transliteration: very
+  - chinese: 干净
+    pinyin: gānjìng
+    transliteration: clean
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 这里的水很干净，可以喝。
+  english: The water here is very clean; you can drink it.
+  chunks:
+  - chinese: 这里
+    pinyin: zhèli
+    transliteration: here
+  - chinese: 的
+    pinyin: de
+    transliteration: (possessive marker)
+  - chinese: 水
+    pinyin: shuǐ
+    transliteration: water
+  - chinese: 很
+    pinyin: hěn
+    transliteration: very
+  - chinese: 干净
+    pinyin: gānjìng
+    transliteration: clean
+  - chinese: ，
+    pinyin: ，
+    transliteration: ''
+  - chinese: 可以
+    pinyin: kěyǐ
+    transliteration: can
+  - chinese: 喝
+    pinyin: hē
+    transliteration: drink
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 请把你的房间打扫干净！
+  english: Please clean your room!
+  chunks:
+  - chinese: 请
+    pinyin: qǐng
+    transliteration: please
+  - chinese: 把
+    pinyin: bǎ
+    transliteration: (object-focus marker)
+  - chinese: 你的
+    pinyin: nǐde
+    transliteration: your
+  - chinese: 房间
+    pinyin: fángjiān
+    transliteration: room
+  - chinese: 打扫
+    pinyin: dǎsǎo
+    transliteration: clean
+  - chinese: 干净
+    pinyin: gānjìng
+    transliteration: clean
+  - chinese: ！
+    pinyin: ！
+    transliteration: ''
+- chinese: 他把车洗得很干净。
+  english: He washed the car very clean.
+  chunks:
+  - chinese: 他
+    pinyin: tā
+    transliteration: he
+  - chinese: 把
+    pinyin: bǎ
+    transliteration: (object-focus marker)
+  - chinese: 车
+    pinyin: chē
+    transliteration: car
+  - chinese: 洗
+    pinyin: xǐ
+    transliteration: washed
+  - chinese: 得
+    pinyin: de
+    transliteration: (degree complement marker)
+  - chinese: 很
+    pinyin: hěn
+    transliteration: very
+  - chinese: 干净
+    pinyin: gānjìng
+    transliteration: clean
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 这家饭店不太干净。
+  english: This restaurant is not very clean.
+  chunks:
+  - chinese: 这家
+    pinyin: zhèjiā
+    transliteration: this
+  - chinese: 饭店
+    pinyin: fàndiàn
+    transliteration: restaurant
+  - chinese: 不太
+    pinyin: bútài
+    transliteration: not very
+  - chinese: 干净
+    pinyin: gānjìng
+    transliteration: clean
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 我们去电影院看电影吧。
+  english: Let's go to the movie theater to watch a movie.
+  chunks:
+  - chinese: 我们
+    pinyin: wǒmen
+    transliteration: we
+  - chinese: 去
+    pinyin: qù
+    transliteration: go to
+  - chinese: 电影院
+    pinyin: diànyǐngyuàn
+    transliteration: movie theater
+  - chinese: 看
+    pinyin: kàn
+    transliteration: watch
+  - chinese: 电影
+    pinyin: diànyǐng
+    transliteration: movie
+  - chinese: 吧
+    pinyin: ba
+    transliteration: (suggestion particle)
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 这家电影院很大。
+  english: This movie theater is very big.
+  chunks:
+  - chinese: 这
+    pinyin: zhè
+    transliteration: this
+  - chinese: 家
+    pinyin: jiā
+    transliteration: (classifier)
+  - chinese: 电影院
+    pinyin: diànyǐngyuàn
+    transliteration: movie theater
+  - chinese: 很
+    pinyin: hěn
+    transliteration: very
+  - chinese: 大
+    pinyin: dà
+    transliteration: big
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 你喜欢去电影院吗？
+  english: Do you like going to the movie theater?
+  chunks:
+  - chinese: 你
+    pinyin: nǐ
+    transliteration: you
+  - chinese: 喜欢
+    pinyin: xǐhuan
+    transliteration: like
+  - chinese: 去
+    pinyin: qù
+    transliteration: go to
+  - chinese: 电影院
+    pinyin: diànyǐngyuàn
+    transliteration: movie theater
+  - chinese: 吗
+    pinyin: ma
+    transliteration: (question particle)
+  - chinese: ？
+    pinyin: ？
+    transliteration: ''
+- chinese: 电影院里人很多。
+  english: There are many people in the movie theater.
+  chunks:
+  - chinese: 电影院
+    pinyin: diànyǐngyuàn
+    transliteration: movie theater
+  - chinese: 里
+    pinyin: lǐ
+    transliteration: inside
+  - chinese: 人
+    pinyin: rén
+    transliteration: people
+  - chinese: 很
+    pinyin: hěn
+    transliteration: very
+  - chinese: 多
+    pinyin: duō
+    transliteration: many
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 他在电影院工作。
+  english: He works at a movie theater.
+  chunks:
+  - chinese: 他
+    pinyin: tā
+    transliteration: he
+  - chinese: 在
+    pinyin: zài
+    transliteration: at
+  - chinese: 电影院
+    pinyin: diànyǐngyuàn
+    transliteration: movie theater
+  - chinese: 工作
+    pinyin: gōngzuò
+    transliteration: work
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 我们学校后面有一家电影院。
+  english: There is a movie theater behind our school.
+  chunks:
+  - chinese: 我们
+    pinyin: wǒmen
+    transliteration: our
+  - chinese: 学校
+    pinyin: xuéxiào
+    transliteration: school
+  - chinese: 后面
+    pinyin: hòumian
+    transliteration: behind
+  - chinese: 有
+    pinyin: yǒu
+    transliteration: there is
+  - chinese: 一
+    pinyin: yī
+    transliteration: one
+  - chinese: 家
+    pinyin: jiā
+    transliteration: (classifier)
+  - chinese: 电影院
+    pinyin: diànyǐngyuàn
+    transliteration: movie theater
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 明天你想去电影院吗？
+  english: Do you want to go to the movie theater tomorrow?
+  chunks:
+  - chinese: 明天
+    pinyin: míngtiān
+    transliteration: tomorrow
+  - chinese: 你
+    pinyin: nǐ
+    transliteration: you
+  - chinese: 想
+    pinyin: xiǎng
+    transliteration: want to
+  - chinese: 去
+    pinyin: qù
+    transliteration: go to
+  - chinese: 电影院
+    pinyin: diànyǐngyuàn
+    transliteration: movie theater
+  - chinese: 吗
+    pinyin: ma
+    transliteration: (question particle)
+  - chinese: ？
+    pinyin: ？
+    transliteration: ''
+- chinese: 那个电影院太小了。
+  english: That movie theater is too small.
+  chunks:
+  - chinese: 那个
+    pinyin: nàge
+    transliteration: that
+  - chinese: 电影院
+    pinyin: diànyǐngyuàn
+    transliteration: movie theater
+  - chinese: 太
+    pinyin: tài
+    transliteration: too
+  - chinese: 小
+    pinyin: xiǎo
+    transliteration: small
+  - chinese: 了
+    pinyin: le
+    transliteration: (emphasis)
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 我们走到电影院了。
+  english: We have walked to the movie theater.
+  chunks:
+  - chinese: 我们
+    pinyin: wǒmen
+    transliteration: we
+  - chinese: 走
+    pinyin: zǒu
+    transliteration: walk
+  - chinese: 到
+    pinyin: dào
+    transliteration: to; arrive at
+  - chinese: 电影院
+    pinyin: diànyǐngyuàn
+    transliteration: movie theater
+  - chinese: 了
+    pinyin: le
+    transliteration: (completed)
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 我明天想请假。
+  english: I want to ask for leave tomorrow.
+  chunks:
+  - chinese: 我
+    pinyin: wǒ
+    transliteration: I
+  - chinese: 明天
+    pinyin: míngtiān
+    transliteration: tomorrow
+  - chinese: 想
+    pinyin: xiǎng
+    transliteration: want to
+  - chinese: 请假
+    pinyin: qǐngjià
+    transliteration: ask for leave
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 他今天请假了吗？
+  english: Did he ask for leave today?
+  chunks:
+  - chinese: 他
+    pinyin: tā
+    transliteration: he
+  - chinese: 今天
+    pinyin: jīntiān
+    transliteration: today
+  - chinese: 请假
+    pinyin: qǐngjià
+    transliteration: ask for leave
+  - chinese: 了
+    pinyin: le
+    transliteration: (completed)
+  - chinese: 吗
+    pinyin: ma
+    transliteration: (question particle)
+  - chinese: ？
+    pinyin: ？
+    transliteration: ''
+- chinese: 请假要先和老师说。
+  english: You need to tell the teacher first when asking for leave.
+  chunks:
+  - chinese: 请假
+    pinyin: qǐngjià
+    transliteration: asking for leave
+  - chinese: 要
+    pinyin: yào
+    transliteration: need to
+  - chinese: 先
+    pinyin: xiān
+    transliteration: first
+  - chinese: 和
+    pinyin: hé
+    transliteration: with
+  - chinese: 老师
+    pinyin: lǎoshī
+    transliteration: teacher
+  - chinese: 说
+    pinyin: shuō
+    transliteration: say
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 你为什么请假？
+  english: Why are you asking for leave?
+  chunks:
+  - chinese: 你
+    pinyin: nǐ
+    transliteration: you
+  - chinese: 为什么
+    pinyin: wèishénme
+    transliteration: why
+  - chinese: 请假
+    pinyin: qǐngjià
+    transliteration: ask for leave
+  - chinese: ？
+    pinyin: ？
+    transliteration: ''
+- chinese: 我不太好，想请假回家。
+  english: I'm not feeling well, I want to ask for leave and go home.
+  chunks:
+  - chinese: 我
+    pinyin: wǒ
+    transliteration: I
+  - chinese: 不太好
+    pinyin: bútàihǎo
+    transliteration: not feeling well
+  - chinese: ，
+    pinyin: ，
+    transliteration: ''
+  - chinese: 想
+    pinyin: xiǎng
+    transliteration: want to
+  - chinese: 请假
+    pinyin: qǐngjià
+    transliteration: ask for leave
+  - chinese: 回家
+    pinyin: huíjiā
+    transliteration: go home
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 她这个月请假三天。
+  english: She asked for three days of leave this month.
+  chunks:
+  - chinese: 她
+    pinyin: tā
+    transliteration: she
+  - chinese: 这个月
+    pinyin: zhègeyuè
+    transliteration: this month
+  - chinese: 请假
+    pinyin: qǐngjià
+    transliteration: asked for leave
+  - chinese: 三天
+    pinyin: sāntiān
+    transliteration: three days
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 请假的时候要说什么？
+  english: What should I say when asking for leave?
+  chunks:
+  - chinese: 请假
+    pinyin: qǐngjià
+    transliteration: asking for leave
+  - chinese: 的时候
+    pinyin: deshíhou
+    transliteration: when
+  - chinese: 要
+    pinyin: yào
+    transliteration: should
+  - chinese: 说
+    pinyin: shuō
+    transliteration: say
+  - chinese: 什么
+    pinyin: shénme
+    transliteration: what
+  - chinese: ？
+    pinyin: ？
+    transliteration: ''
+- chinese: 他很少请假。
+  english: He rarely asks for leave.
+  chunks:
+  - chinese: 他
+    pinyin: tā
+    transliteration: he
+  - chinese: 很少
+    pinyin: hěnshǎo
+    transliteration: rarely
+  - chinese: 请假
+    pinyin: qǐngjià
+    transliteration: asks for leave
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 你看上边，有一只小鸟！
+  english: Look above, there's a little bird!
+  chunks:
+  - chinese: 你
+    pinyin: nǐ
+    transliteration: you
+  - chinese: 看
+    pinyin: kàn
+    transliteration: look
+  - chinese: 上边
+    pinyin: shàngbian
+    transliteration: above
+  - chinese: ，
+    pinyin: ，
+    transliteration: ''
+  - chinese: 有
+    pinyin: yǒu
+    transliteration: there is
+  - chinese: 一
+    pinyin: yī
+    transliteration: one
+  - chinese: 只
+    pinyin: zhī
+    transliteration: (measure word)
+  - chinese: 小鸟
+    pinyin: xiǎoniǎo
+    transliteration: little bird
+  - chinese: ！
+    pinyin: ！
+    transliteration: ''
+- chinese: 把那个东西放到上边去。
+  english: Put that thing up there.
+  chunks:
+  - chinese: 把
+    pinyin: bǎ
+    transliteration: (object-focus marker)
+  - chinese: 那个
+    pinyin: nàge
+    transliteration: that
+  - chinese: 东西
+    pinyin: dōngxi
+    transliteration: thing
+  - chinese: 放到
+    pinyin: fàngdào
+    transliteration: put to
+  - chinese: 上边
+    pinyin: shàngbian
+    transliteration: up there
+  - chinese: 去
+    pinyin: qù
+    transliteration: go
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 上边写了什么？
+  english: What is written on it?
+  chunks:
+  - chinese: 上边
+    pinyin: shàngbian
+    transliteration: on it
+  - chinese: 写
+    pinyin: xiě
+    transliteration: written
+  - chinese: 了
+    pinyin: le
+    transliteration: (completed)
+  - chinese: 什么
+    pinyin: shénme
+    transliteration: what
+  - chinese: ？
+    pinyin: ？
+    transliteration: ''
+- chinese: 山的上边有很多白云。
+  english: There are many white clouds above the mountain.
+  chunks:
+  - chinese: 山
+    pinyin: shān
+    transliteration: mountain
+  - chinese: 的
+    pinyin: de
+    transliteration: (possessive)
+  - chinese: 上边
+    pinyin: shàngbian
+    transliteration: above
+  - chinese: 有
+    pinyin: yǒu
+    transliteration: there are
+  - chinese: 很多
+    pinyin: hěnduō
+    transliteration: many
+  - chinese: 白云
+    pinyin: báiyún
+    transliteration: white clouds
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 他住在我家上边。
+  english: He lives above my home.
+  chunks:
+  - chinese: 他
+    pinyin: tā
+    transliteration: he
+  - chinese: 住
+    pinyin: zhù
+    transliteration: lives
+  - chinese: 在
+    pinyin: zài
+    transliteration: at
+  - chinese: 我家
+    pinyin: wǒjiā
+    transliteration: my home
+  - chinese: 上边
+    pinyin: shàngbian
+    transliteration: above
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 上边的人说明天不上班。
+  english: Those higher up said there's no work tomorrow.
+  chunks:
+  - chinese: 上边
+    pinyin: shàngbian
+    transliteration: those higher up
+  - chinese: 的
+    pinyin: de
+    transliteration: (possessive)
+  - chinese: 人
+    pinyin: rén
+    transliteration: people
+  - chinese: 说
+    pinyin: shuō
+    transliteration: said
+  - chinese: 明天
+    pinyin: míngtiān
+    transliteration: tomorrow
+  - chinese: 不
+    pinyin: bù
+    transliteration: not
+  - chinese: 上班
+    pinyin: shàngbān
+    transliteration: go to work
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 你的名字在上边吗？
+  english: Is your name on it?
+  chunks:
+  - chinese: 你
+    pinyin: nǐ
+    transliteration: your
+  - chinese: 的
+    pinyin: de
+    transliteration: (possessive)
+  - chinese: 名字
+    pinyin: míngzi
+    transliteration: name
+  - chinese: 在
+    pinyin: zài
+    transliteration: is on
+  - chinese: 上边
+    pinyin: shàngbian
+    transliteration: on it
+  - chinese: 吗
+    pinyin: ma
+    transliteration: (question particle)
+  - chinese: ？
+    pinyin: ？
+    transliteration: ''
+- chinese: 这个教学楼很大。
+  english: This academic building is very big.
+  chunks:
+  - chinese: 这个
+    pinyin: zhège
+    transliteration: this
+  - chinese: 教学楼
+    pinyin: jiàoxuélóu
+    transliteration: academic building
+  - chinese: 很
+    pinyin: hěn
+    transliteration: very
+  - chinese: 大
+    pinyin: dà
+    transliteration: big
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 教学楼里有多少教室？
+  english: How many classrooms are there in the academic building?
+  chunks:
+  - chinese: 教学楼
+    pinyin: jiàoxuélóu
+    transliteration: academic building
+  - chinese: 里
+    pinyin: lǐ
+    transliteration: inside
+  - chinese: 有
+    pinyin: yǒu
+    transliteration: there are
+  - chinese: 多少
+    pinyin: duōshao
+    transliteration: how many
+  - chinese: 教室
+    pinyin: jiàoshì
+    transliteration: classrooms
+  - chinese: ？
+    pinyin: ？
+    transliteration: ''
+- chinese: 我们去教学楼上课吧。
+  english: Let's go to the academic building for class.
+  chunks:
+  - chinese: 我们
+    pinyin: wǒmen
+    transliteration: we
+  - chinese: 去
+    pinyin: qù
+    transliteration: go to
+  - chinese: 教学楼
+    pinyin: jiàoxuélóu
+    transliteration: academic building
+  - chinese: 上课
+    pinyin: shàngkè
+    transliteration: have class
+  - chinese: 吧
+    pinyin: ba
+    transliteration: (suggestion particle)
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 他在教学楼前面等我。
+  english: He is waiting for me in front of the academic building.
+  chunks:
+  - chinese: 他
+    pinyin: tā
+    transliteration: he
+  - chinese: 在
+    pinyin: zài
+    transliteration: at
+  - chinese: 教学楼
+    pinyin: jiàoxuélóu
+    transliteration: academic building
+  - chinese: 前面
+    pinyin: qiánmian
+    transliteration: in front of
+  - chinese: 等
+    pinyin: děng
+    transliteration: waiting for
+  - chinese: 我
+    pinyin: wǒ
+    transliteration: me
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 你看到那个教学楼了吗？
+  english: Did you see that academic building?
+  chunks:
+  - chinese: 你
+    pinyin: nǐ
+    transliteration: you
+  - chinese: 看到
+    pinyin: kàndào
+    transliteration: see
+  - chinese: 那个
+    pinyin: nàge
+    transliteration: that
+  - chinese: 教学楼
+    pinyin: jiàoxuélóu
+    transliteration: academic building
+  - chinese: 了
+    pinyin: le
+    transliteration: (completed)
+  - chinese: 吗
+    pinyin: ma
+    transliteration: (question particle)
+  - chinese: ？
+    pinyin: ？
+    transliteration: ''
+- chinese: 从这里走到教学楼要五分钟。
+  english: It takes five minutes to walk from here to the academic building.
+  chunks:
+  - chinese: 从
+    pinyin: cóng
+    transliteration: from
+  - chinese: 这里
+    pinyin: zhèlǐ
+    transliteration: here
+  - chinese: 走
+    pinyin: zǒu
+    transliteration: walk
+  - chinese: 到
+    pinyin: dào
+    transliteration: to
+  - chinese: 教学楼
+    pinyin: jiàoxuélóu
+    transliteration: academic building
+  - chinese: 要
+    pinyin: yào
+    transliteration: takes
+  - chinese: 五
+    pinyin: wǔ
+    transliteration: five
+  - chinese: 分钟
+    pinyin: fēnzhōng
+    transliteration: minutes
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 学校有三个教学楼。
+  english: The school has three academic buildings.
+  chunks:
+  - chinese: 学校
+    pinyin: xuéxiào
+    transliteration: school
+  - chinese: 有
+    pinyin: yǒu
+    transliteration: has
+  - chinese: 三
+    pinyin: sān
+    transliteration: three
+  - chinese: 个
+    pinyin: gè
+    transliteration: (measure word)
+  - chinese: 教学楼
+    pinyin: jiàoxuélóu
+    transliteration: academic buildings
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 你不用说谢谢，不客气。
+  english: You don't need to say thank you, don't mention it.
+  chunks:
+  - chinese: 你
+    pinyin: nǐ
+    transliteration: you
+  - chinese: 不用
+    pinyin: búyòng
+    transliteration: don't need to
+  - chinese: 说
+    pinyin: shuō
+    transliteration: say
+  - chinese: 谢谢
+    pinyin: xièxie
+    transliteration: thank you
+  - chinese: ，
+    pinyin: ，
+    transliteration: ''
+  - chinese: 不客气
+    pinyin: búkèqi
+    transliteration: don't mention it
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 他对我很不客气，我不高兴。
+  english: He was very rude to me, and I'm not happy.
+  chunks:
+  - chinese: 他
+    pinyin: tā
+    transliteration: he
+  - chinese: 对
+    pinyin: duì
+    transliteration: to
+  - chinese: 我
+    pinyin: wǒ
+    transliteration: me
+  - chinese: 很
+    pinyin: hěn
+    transliteration: very
+  - chinese: 不客气
+    pinyin: búkèqi
+    transliteration: rude
+  - chinese: ，
+    pinyin: ，
+    transliteration: ''
+  - chinese: 我
+    pinyin: wǒ
+    transliteration: I
+  - chinese: 不
+    pinyin: bù
+    transliteration: not
+  - chinese: 高兴
+    pinyin: gāoxìng
+    transliteration: happy
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 这个人太不客气了！
+  english: This person is so rude!
+  chunks:
+  - chinese: 这个
+    pinyin: zhège
+    transliteration: this
+  - chinese: 人
+    pinyin: rén
+    transliteration: person
+  - chinese: 太
+    pinyin: tài
+    transliteration: too
+  - chinese: 不客气
+    pinyin: búkèqi
+    transliteration: rude
+  - chinese: 了
+    pinyin: le
+    transliteration: (emphasis)
+  - chinese: ！
+    pinyin: ！
+    transliteration: ''
+- chinese: 他没听见我的话。
+  english: He didn't hear what I said.
+  chunks:
+  - chinese: 他
+    pinyin: tā
+    transliteration: he
+  - chinese: 没
+    pinyin: méi
+    transliteration: didn't
+  - chinese: 听见
+    pinyin: tīngjiàn
+    transliteration: hear
+  - chinese: 我
+    pinyin: wǒ
+    transliteration: my
+  - chinese: 的
+    pinyin: de
+    transliteration: (possessive)
+  - chinese: 话
+    pinyin: huà
+    transliteration: words
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 你听见那个声音了吗？
+  english: Did you hear that sound?
+  chunks:
+  - chinese: 你
+    pinyin: nǐ
+    transliteration: you
+  - chinese: 听见
+    pinyin: tīngjiàn
+    transliteration: hear
+  - chinese: 那个
+    pinyin: nàge
+    transliteration: that
+  - chinese: 声音
+    pinyin: shēngyīn
+    transliteration: sound
+  - chinese: 了
+    pinyin: le
+    transliteration: (completed)
+  - chinese: 吗
+    pinyin: ma
+    transliteration: (question particle)
+  - chinese: ？
+    pinyin: ？
+    transliteration: ''
+- chinese: 我在家里听见外面下雨了。
+  english: I heard it raining outside while I was at home.
+  chunks:
+  - chinese: 我
+    pinyin: wǒ
+    transliteration: I
+  - chinese: 在
+    pinyin: zài
+    transliteration: at
+  - chinese: 家里
+    pinyin: jiālǐ
+    transliteration: home
+  - chinese: 听见
+    pinyin: tīngjiàn
+    transliteration: heard
+  - chinese: 外面
+    pinyin: wàimian
+    transliteration: outside
+  - chinese: 下雨
+    pinyin: xiàyǔ
+    transliteration: raining
+  - chinese: 了
+    pinyin: le
+    transliteration: (completed)
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 小狗听见了主人的声音。
+  english: The little dog heard its owner's voice.
+  chunks:
+  - chinese: 小狗
+    pinyin: xiǎogǒu
+    transliteration: little dog
+  - chinese: 听见
+    pinyin: tīngjiàn
+    transliteration: heard
+  - chinese: 了
+    pinyin: le
+    transliteration: (completed)
+  - chinese: 主人
+    pinyin: zhǔrén
+    transliteration: owner
+  - chinese: 的
+    pinyin: de
+    transliteration: (possessive)
+  - chinese: 声音
+    pinyin: shēngyīn
+    transliteration: voice
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 太小声了，我听不见。
+  english: It's too quiet, I can't hear it.
+  chunks:
+  - chinese: 太
+    pinyin: tài
+    transliteration: too
+  - chinese: 小声
+    pinyin: xiǎoshēng
+    transliteration: quiet
+  - chinese: 了
+    pinyin: le
+    transliteration: (degree particle)
+  - chinese: ，
+    pinyin: ，
+    transliteration: ''
+  - chinese: 我
+    pinyin: wǒ
+    transliteration: I
+  - chinese: 听不见
+    pinyin: tīngbujiàn
+    transliteration: can't hear
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 你大声一点，我听不见你说什么。
+  english: Speak louder, I can't hear what you're saying.
+  chunks:
+  - chinese: 你
+    pinyin: nǐ
+    transliteration: you
+  - chinese: 大声
+    pinyin: dàshēng
+    transliteration: loud
+  - chinese: 一点
+    pinyin: yìdiǎn
+    transliteration: a little
+  - chinese: ，
+    pinyin: ，
+    transliteration: ''
+  - chinese: 我
+    pinyin: wǒ
+    transliteration: I
+  - chinese: 听不见
+    pinyin: tīngbujiàn
+    transliteration: can't hear
+  - chinese: 你
+    pinyin: nǐ
+    transliteration: you
+  - chinese: 说
+    pinyin: shuō
+    transliteration: say
+  - chinese: 什么
+    pinyin: shénme
+    transliteration: what
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 妈妈听见我回来了，很高兴。
+  english: Mom heard me come back and was very happy.
+  chunks:
+  - chinese: 妈妈
+    pinyin: māma
+    transliteration: mom
+  - chinese: 听见
+    pinyin: tīngjiàn
+    transliteration: heard
+  - chinese: 我
+    pinyin: wǒ
+    transliteration: I
+  - chinese: 回来
+    pinyin: huílai
+    transliteration: come back
+  - chinese: 了
+    pinyin: le
+    transliteration: (completed)
+  - chinese: ，
+    pinyin: ，
+    transliteration: ''
+  - chinese: 很
+    pinyin: hěn
+    transliteration: very
+  - chinese: 高兴
+    pinyin: gāoxìng
+    transliteration: happy
+  - chinese: 。
+    pinyin: 。
+    transliteration: ''
+- chinese: 我听见了，你不用再说了。
+  english: I heard you, you don't need to say it again.
+  chunks:
+  - chinese: 我
+    pinyin: wǒ
+    transliteration: I
+  - chinese: 听见
+    pinyin: tīngjiàn
+    transliteration: heard
+  - chinese: 了
+    pinyin: le
+    transliteration: (completed)
+  - chinese: ，
+    pinyin: ，
+    transliteration: ''
+  - chinese: 你
+    pinyin: nǐ
+    transliteration: you
+  - chinese: 不用
+    pinyin: bùyòng
+    transliteration: don't need to
+  - chinese: 再
+    pinyin: zài
+    transliteration: again
+  - chinese: 说
+    pinyin: shuō
+    transliteration: say
+  - chinese: 了
+    pinyin: le
+    transliteration: (change of state)
   - chinese: 。
     pinyin: 。
     transliteration: ''
